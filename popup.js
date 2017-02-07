@@ -23,7 +23,7 @@ function showLinks() {
     checkbox.type = 'checkbox';
     checkbox.id = 'check' + i;
     col0.appendChild(checkbox);
-    col1.innerText = visibleLinks[i];
+    col1.innerHTML= "<img src='"+visibleLinks[i]+"'' />";
     col1.style.whiteSpace = 'nowrap';
     col1.onclick = function() {
       checkbox.checked = !checkbox.checked;
