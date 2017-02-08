@@ -1,18 +1,49 @@
 <!DOCTYPE html>
 <head>
+<script src='jquery-1.11.3.min.js'></script>
 <script src='popup.js'></script>
+<style type="text/css">
+	*{list-style:none;}
+	ul{
+		overflow: hidden;
+		margin: 0;
+    padding: 0;
+    width: 550px;
+	}
+	li{
+		float: left;
+		margin:5px;
+		position: relative;
+		cursor: pointer;
+	}
+	li.on:before{
+		content: "";
+		width: 94px;
+		height:94px;
+		left: 0;
+		position: absolute;
+		top:0;
+		border: 3px solid #1afa29;
+		background: url(choose.png) no-repeat right bottom;
+	}
+	img{
+		width: 100px;
+		height: 100px;
+	}
+</style>
 </head>
 <body>
-<input type='text' id='filter' placeholder='Filter' />
+<!-- <input type='text' id='filter' placeholder='Filter' />
 <input type='checkbox' id='regex' />
-<label for='regex'>Regex</label><br>
-<button id='download0'>Download All!</button>
+<label for='regex'>Regex</label> -->
+<button style="display:inline-block" id='download0'>下载</button>
 <table id='links'>
   <tr>
     <th><input type=checkbox checked id='toggle_all'></th>
-    <th align='left'>URL</th>
+    <th align='left'><label for="toggle_all">全部</label></th>
   </tr>
 </table>
-<button id='download1'>Download All!</button>
+<ul id="list"></ul>
+<button id='download1'>下载</button>
 </body>
 </html>
