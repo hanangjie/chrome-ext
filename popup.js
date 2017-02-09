@@ -26,9 +26,10 @@ function showLinks() {
 // Toggle the checked state of all visible links.
 function toggleAll() {
   var checked = document.getElementById('toggle_all').checked;
-  for (var i = 0; i < visibleLinks.length; ++i) {
+  /*for (var i = 0; i < visibleLinks.length; ++i) {
     document.getElementById('check' + i).checked = checked;
-  }
+  }*/
+  $("input").prop("checked",checked)
   if(checked){
     $("li").addClass("on")
   }else{
@@ -77,6 +78,7 @@ window.onload = function() {
   });
 };
 
+
 $(function(){
   $(document).on("click","li",function(){
     if($(this).hasClass("on")){
@@ -85,5 +87,18 @@ $(function(){
       $(this).addClass("on")
     }
     $(this).find("input").prop("checked",!$(this).find("input").prop("checked"))
+  })
+  $("#toggle_gif").change(function(){
+    var check=$("#toggle_gif").prop("checked")
+    $("li").each(function(){
+       if($(this).find("img").attr("src").indexOf(".gif")!=-1){
+          if(check){
+            $(this).addClass("on")
+          }else{
+            $(this).removeClass("on")
+          }
+          $(this).find("input").prop("checked",!check)
+       }
+    })
   })
 })
