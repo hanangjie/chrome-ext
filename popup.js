@@ -29,6 +29,11 @@ function toggleAll() {
   for (var i = 0; i < visibleLinks.length; ++i) {
     document.getElementById('check' + i).checked = checked;
   }
+  if(checked){
+    $("li").addClass("on")
+  }else{
+    $("li").removeClass("on")
+  }
 }
 
 // Download all visible checked links.
