@@ -101,4 +101,17 @@ $(function(){
        }
     })
   })
+  $("#toggle_other").change(function(){
+    var check=$("#toggle_other").prop("checked")
+    $("li").each(function(){
+       if($(this).find("img").attr("src").indexOf(".gif")<0){
+          if(check){
+            $(this).addClass("on")
+          }else{
+            $(this).removeClass("on")
+          }
+          $(this).find("input").prop("checked",!check)
+       }
+    })
+  })
 })
