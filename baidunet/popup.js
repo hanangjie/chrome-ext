@@ -1,0 +1,119 @@
+// Copyright (c) 2012 The Chromium Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+// This extension demonstrates using chrome.downloads.download() to
+// download URLs.
+
+var allLinks = [];
+var visibleLinks = [];
+var linkGroup = [];
+
+// Display all visible links.
+function showLinks() {
+  var linksTable = document.getElementById('list');
+  while (linksTable.children.length > 0) {
+    linksTable.removeChild(linksTable.children[linksTable.children.length - 1])
+  }
+  for (var i = 0; i < visibleLinks.length; ++i) {
+    var row = document.createElement('li');
+    row.className="on"
+    row.innerHTML= "<a href='"+visibleLinks[i]+"' target='_blank'>"+visibleLinks[i]+"</a>";
+    row.style.whiteSpace = 'nowrap';
+    //window.open(visibleLinks[i],visibleLinks[i],"_parent","toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=400, height=400")
+    linksTable.appendChild(row);
+  }
+}
+
+// Toggle the checked state of all visible links.
+function toggleAll() {
+  var checked = document.getElementById('toggle_all').checked;
+  /*for (var i = 0; i < visibleLinks.length; ++i) {
+    document.getElementById('check' + i).checked = checked;
+  }*/
+  $("input").prop("checked",checked)
+  if(checked){
+    $("li").addClass("on")
+  }else{
+    $("li").removeClass("on")
+  }
+}
+
+// Download all visible checked links.
+function downloadCheckedLinks() {
+  for (var i = 0; i < visibleLinks.length; ++i) {
+    if (document.getElementById('check' + i).checked) {
+      chrome.downloads.download({url: visibleLinks[i]},
+                                             function(id) {
+      });
+    }
+  }
+  //window.close();
+}
+
+
+// Add links to allLinks and visibleLinks, sort and show them.  send_links.js is
+// injected into all frames of the active tab, so this listener may be called
+// multiple times.
+chrome.extension.onRequest.addListener(function(links) {
+  for (var index in links) {
+    allLinks.push(links[index]);
+  }
+  allLinks.sort();
+  visibleLinks = allLinks;
+  showLinks();
+});
+
+// Set up event handlers and inject send_links.js into all frames in the active
+// tab.
+window.onload = function() {
+  document.getElementById('toggle_all').onchange = toggleAll;
+  document.getElementById('download0').onclick = downloadCheckedLinks;
+  document.getElementById('download1').onclick = downloadCheckedLinks;
+
+  chrome.windows.getCurrent(function (currentWindow) {
+    chrome.tabs.query({active: true, windowId: currentWindow.id},
+                      function(activeTabs) {
+      chrome.tabs.executeScript(
+        activeTabs[0].id, {file: 'send_links.js', allFrames: true});
+    });
+  });
+};
+
+
+$(function(){
+  $(document).on("click","li",function(){
+    if($(this).hasClass("on")){
+      $(this).removeClass("on")
+    }else{
+      $(this).addClass("on")
+    }
+    $(this).find("input").prop("checked",!$(this).find("input").prop("checked"))
+  })
+  $("#toggle_gif").change(function(){
+    var check=$("#toggle_gif").prop("checked")
+    $("li").each(function(){
+       if($(this).find("img").attr("src").indexOf(".gif")!=-1){
+          if(check){
+            $(this).addClass("on")
+          }else{
+            $(this).removeClass("on")
+          }
+          $(this).find("input").prop("checked",!check)
+       }
+    })
+  })
+  $("#toggle_other").change(function(){
+    var check=$("#toggle_other").prop("checked")
+    $("li").each(function(){
+       if($(this).find("img").attr("src").indexOf(".gif")<0){
+          if(check){
+            $(this).addClass("on")
+          }else{
+            $(this).removeClass("on")
+          }
+          $(this).find("input").prop("checked",!check)
+       }
+    })
+  })
+})
