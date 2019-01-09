@@ -4,7 +4,7 @@
 
 // Send back to the popup a sorted deduped list of valid link URLs on this page.
 // The popup injects this script into all frames in the active tab.
-
+// 发送到页面的可执行js
 var links = [].slice.apply(document.getElementsByTagName('a'));
 links = links.map(function(element) {
   // Return an anchor's href attribute, stripping any URL fragment (hash '#').
