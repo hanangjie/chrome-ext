@@ -41,8 +41,12 @@ function toggleAll() {
 function downloadCheckedLinks() {
   for (var i = 0; i < visibleLinks.length; ++i) {
     if (document.getElementById('check' + i).checked) {
-      chrome.downloads.download({url: visibleLinks[i]},
-                                             function(id) {
+      var cache = visibleLinks[i].split('.');
+      chrome.downloads.download({
+        url: visibleLinks[i],
+        filename: 'images/img'+i+'.'+cache[cache.length-1],
+      },
+      function(id) {
       });
     }
   }

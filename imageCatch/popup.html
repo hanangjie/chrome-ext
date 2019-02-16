@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+		<meta charset="utf-8" />
 <script src='jquery-1.11.3.min.js'></script>
 <script src='popup.js'></script>
 <style type="text/css">
@@ -15,6 +16,9 @@
 		margin:5px;
 		position: relative;
 		cursor: pointer;
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
 	}
 	li.on:before{
 		content: "";
@@ -27,8 +31,7 @@
 		background: url(choose.png) no-repeat right bottom;
 	}
 	img{
-		width: 100px;
-		height: 100px;
+		width: 100%;
 	}
 </style>
 </head>
