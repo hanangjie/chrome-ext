@@ -43,8 +43,7 @@ function downloadCheckedLinks() {
     if (document.getElementById('check' + i).checked) {
       var cache = visibleLinks[i].split('.');
       chrome.downloads.download({
-        url: visibleLinks[i],
-        filename: 'images/img'+i+'.'+cache[cache.length-1],
+        url: visibleLinks[i]
       },
       function(id) {
       });
