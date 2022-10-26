@@ -22,7 +22,8 @@ function callit2(data) {
   } else {
     $('#error').html('');
   }
-  gpObj[nowid].percent = data.data.f170+ '%';
+  gpObj[nowid].diff = +data.data.f170;
+  gpObj[nowid].percent = data.data.f170+ '%' + ' h:'+ data.data.f168;
 }
 
 function start(id) {
@@ -33,8 +34,10 @@ function start(id) {
 
 function print() {
     var all = 0;
-    var html = ''
-    Object.values(gpObj).forEach((item) => {
+    var html = '';
+    var list = Object.values(gpObj);
+    list.sort((v1, v2) => v2.diff - v1.diff);
+    list.forEach((item) => {
       html += `<li>${item.id+' '+item.data + item.percent} <span data-id="${item.id}" >删除</span></li>`
     })
     $('#list').html(html)
