@@ -112,4 +112,8 @@ $(function(){
     var data = $(item.target).data();
     deleteItem(data.id)
   })
+  $('#code').on('change', () => {
+    var that = $(this);
+    
+  })
 })
