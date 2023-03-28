@@ -1,99 +1,42 @@
-var nowid = '';
-var isNew = true;
+
 var gpList = {};
-var gpObj = {};
-var gplength = 0;
-function callit(data) {
-  if(!data.data) {
-    $('#error').html('Error: No value specified');
-    return
-  } else {
-    $('#error').html('');
-  }
-    const price = data.data.trends[data.data.trends.length-1].split(',')[1];
-    gpObj[nowid].data =  `${data.data.name}: ${price} `;
-    gpObj[nowid].getMoney = ((price- (gpList[nowid].isNew? gpList[nowid].cb:data.data.prePrice))*gpList[nowid].gu).toFixed(2)
-    gpObj[nowid].allMoney = ((price- gpList[nowid].cb)*gpList[nowid].gu).toFixed(2)
-}
-function callit2(data) {
-  if(!data.data) {
-    $('#error').html('Error: No value specified')
-    return
-  } else {
-    $('#error').html('');
-  }
-  gpObj[nowid].diff = +data.data.f170;
-  gpObj[nowid].percent = data.data.f170+ '%' + ' h:'+ data.data.f168;
-}
 
-function start(id) {
-    gpObj[id] = {id};
-    getId(id);
-    getPrice(id);
-}
-
-function print() {
-    var all = 0;
+function createEventSource() {
+  const sseId = Object.keys(gpList).map((item) => {
+    if(item.slice(0,2) === '00' ||item.slice(0,2) === '30' ) {
+      return '0.'+item;
+    } else {
+      return '1.'+item;
+    }
+  });
+  let initList = null;
+  
+  eventSource = new EventSource('https://1.push2.eastmoney.com/api/qt/ulist/sse?invt=3&pi=0&pz=9&mpi=2000&secids='+ sseId.join(',') +'&ut=6d2ffaa6a585d612eda28417681d58fb&fields=f12,f13,f19,f14,f139,f148,f2,f4,f1,f125,f18,f3,f152,f5,f30,f31,f32,f6,f8,f7,f10,f22,f9,f112,f100&po=1');
+  eventSource.addEventListener("message", function(e) {
+    const result = JSON.parse(e.data)
     var html = '';
-    var list = Object.values(gpObj);
-    list.sort((v1, v2) => v2.diff - v1.diff);
-    list.forEach((item) => {
-      html += `<li>${item.id+' '+item.data + item.percent} <span data-id="${item.id}" >删除</span></li>`
+    const data = result.data.diff;
+    console.log(data);
+    if(!initList) {
+      initList = data;
+    } else {
+      for(let key in initList) {
+        initList[key] = {
+          ...initList[key],
+          ...data[key]
+        }
+      }
+    }
+    const dataList = Object.values(initList);
+    dataList.sort((v1, v2) => (v2.f2/v2.f18 -1) - (v1.f2/v1.f18 -1));
+    dataList.forEach((item) => {
+      const zf = (item.f2/item.f18 -1)*100;
+      const valChange = item.f4/100
+      html += `<li style="color:${zf>0 ? 'red':'green'}">${item.f12} ${item.f14} ${(item.f2/100).toFixed(2)} ${zf.toFixed(2)}% ${(item.f8/100).toFixed(2)}
+      <span data-id="${item.f12}" >删除</span></li>`
     })
     $('#list').html(html)
-    var t= new Date()
-}
-
-function deleteItem(id) {
-  delete gpList[id]
-  getInfo()
-}
-
-function getId(id) {
-    const type = id[0] == 6 ? 1 : 0
-    fetch('https://push2.eastmoney.com/api/qt/stock/trends2/get?secid='+type+'.'+id+'&fields1=f1,f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f170&fields2=f51,f52,f53,f54,f55,f56,f57,f58,f170&ut=4d2cd9e55b669a2b3dec49542914281d&iscr=0&cb=callit&isqhquote=&callit=callit').then((res)=> {
-        return res.text()
-    }).then((data) => {
-        gplength++;
-        nowid = id;
-        new Function(data)();
-        if(gplength === (2*Object.keys(gpList).length)) {
-            print()
-        }
-    })
-}
-
-function getPrice(id) {
-    const type = id[0] == 6 ? 1 : 0
-    const url = 'https://push2.eastmoney.com/api/qt/stock/get?invt=2&fltt=2&ut=a79f54e3d4c8d44e494efb8f748db291&secid='+type+'.'+id+'&fields=f43,f169,f170,f47,f48,f117,f168,f171,f162,f59,f78,f127,f198,f199,f262,f107&cb=callit2&_=1642751047839'
-    
-    fetch(url).then((res) => {return res.text()}).then((data) => {
-        nowid = id;
-        gplength++;
-        new Function(data)();
-        if(gplength === (2*Object.keys(gpList).length)) {
-            print()
-        }
-    })
-}
-getInfo()
-setInterval(() => {
-  nowid = '';
-  gpObj = {};
-  getInfo()
-}, 10*1000)
-
-function getInfo() {
-  gplength = 0;
-  var gp = Object.keys(gpList);
-  if(!gp.length) {
-    $('#list').html('')
-    return;
-  }
-  chrome.storage.sync.set({'value': gpList}, function() {
-    // Notify that we saved.
-  });
-  gp.forEach((item) => start(`${item}`));
+  })
 }
 
 $(function(){
@@ -101,12 +44,16 @@ $(function(){
   chrome.storage.sync.get('value', function(item) {
     // Notify that we saved.
     gpList = item.value || {}
-    getInfo()
+    createEventSource()
   });
   $('#add').click(() => {
     var value = $('#code').val();
     gpList[value] = {gu:0,cb:11.026}
-    getInfo()
+    chrome.storage.sync.set({'value': gpList}, function() {
+      // Notify that we saved.
+    });
+    eventSource.close()
+    createEventSource()
   })
   $('#list').on('click', (item) => {
     var data = $(item.target).data();
