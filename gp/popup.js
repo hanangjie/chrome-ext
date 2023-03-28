@@ -16,7 +16,7 @@ function createEventSource() {
     const result = JSON.parse(e.data)
     var html = '';
     const data = result.data.diff;
-    console.log(data);
+    let total = 0;
     if(!initList) {
       initList = data;
     } else {
@@ -32,10 +32,11 @@ function createEventSource() {
     dataList.forEach((item) => {
       const zf = (item.f2/item.f18 -1)*100;
       const valChange = item.f4/100
+      total = total + +(gpList[item.f12].gu || 0)*valChange;
       html += `<li style="color:${zf>0 ? 'red':'green'}">${item.f12} ${item.f14} ${(item.f2/100).toFixed(2)} ${zf.toFixed(2)}% ${(item.f8/100).toFixed(2)}
       <span data-id="${item.f12}" >删除</span></li>`
     })
-    $('#list').html(html)
+    $('#list').html(html + `<li>盈亏：${total}</li>`)
   })
 }
 
@@ -48,12 +49,20 @@ $(function(){
   });
   $('#add').click(() => {
     var value = $('#code').val();
-    gpList[value] = {gu:0,cb:11.026}
-    chrome.storage.sync.set({'value': gpList}, function() {
-      // Notify that we saved.
-    });
-    eventSource.close()
-    createEventSource()
+    if(value.includes('$')) {
+      const valInfo = value.split('$')
+      gpList[valInfo[0]] = {gu:valInfo[1]}
+      chrome.storage.sync.set({'value': gpList}, function() {
+        // Notify that we saved.
+      });
+    } else{
+      gpList[value] = {gu:0,cb:11.026}
+      chrome.storage.sync.set({'value': gpList}, function() {
+        // Notify that we saved.
+      });
+      eventSource.close()
+      createEventSource()
+    }
   })
   $('#list').on('click', (item) => {
     var data = $(item.target).data();
