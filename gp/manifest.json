@@ -5,7 +5,8 @@
   "minimum_chrome_version": "16.0.884",
   "permissions": [
     "storage",
-    "<all_urls>"
+    "<all_urls>",
+    "window"
   ],
   "icons": {
     "16": "icon.png",
