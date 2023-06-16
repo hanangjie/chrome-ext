@@ -36,6 +36,8 @@ function createEventSource() {
     dataList.sort((v1, v2) => {
       if (v1.f12 === "000001") {
         return -1;
+      } else if (v2.f12 === "000001") {
+        return 1;
       } else {
         return v2.f2 / v2.f18 - 1 - (v1.f2 / v1.f18 - 1);
       }
@@ -44,14 +46,19 @@ function createEventSource() {
       const zf = (item.f2 / item.f18 - 1) * 100;
       const valChange = item.f4 / 100;
       total = total + +(gpList[item.f12].gu || 0) * valChange;
-      html += `<li style="color:${zf > 0 ? "red" : "green"}">${item.f12} ${
-        item.f14
-      } ${(item.f2 / 100).toFixed(2)} ${zf.toFixed(2)}% ${(
+      html += `<li style="color:${
+        zf > 0 ? "red" : "green"
+      }"><a style="text-decoration: none;color:${
+        zf > 0 ? "red" : "green"
+      }" href="https://www.baidu.com/s?wd=${item.f14}" target="_blank">${
+        item.f12
+      } ${item.f14} ${(item.f2 / 100).toFixed(2)} ${zf.toFixed(2)}% ${(
         item.f8 / 100
-      ).toFixed(2)} ${gpList[item.f12].gu}
+      ).toFixed(2)}</a>
       <span data-id="${item.f12}" >删除</span></li>`;
     });
-    $("#list").html(html + `<li>盈亏：${total}</li>`);
+    // $("#list").html(html + `<li>盈亏：${total}</li>`);
+    $("#list").html(html);
   });
 }
 
@@ -61,6 +68,7 @@ $(function () {
     gpList = item.value || {};
     createEventSource();
   });
+  console.log(chrome.dom);
   let strWindowFeatures = `
   left=1000,
   menubar=no,

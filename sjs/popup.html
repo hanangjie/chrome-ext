@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8" />
+	<script src='jquery-1.11.3.min.js'></script>
+	<script src='tgdz.js'></script>
+	<script src='number.js'></script>
+	<script src='popup.js'></script>
+	<style type="text/css">
+		* {
+			list-style: none;
+		}
+
+		ul {
+			overflow: hidden;
+			margin: 0;
+			padding: 0;
+			width: 300px;
+		}
+
+		li {
+			float: left;
+			margin: 5px;
+			position: relative;
+			cursor: pointer;
+			width: 100%;
+			height: 18px;
+			overflow: hidden;
+			font-size: 12px;
+		}
+
+		li.on:before {
+			content: "";
+			width: 94px;
+			height: 94px;
+			left: 0;
+			position: absolute;
+			top: 0;
+			border: 3px solid #1afa29;
+			background: url(choose.png) no-repeat right bottom;
+		}
+
+		img {
+			width: 100%;
+		}
+	</style>
+</head>
+
+<body>
+	<input type="text" id="code" value="" style="width: 100px" /><button id="create">生成</button>
+	<button id="batchCreate">批量生成</button>
+	<button id="stopCreate">停止</button>
+	<div id="number"></div>
+</body>
+
+</html>
