@@ -2,6 +2,7 @@ var key = [];
 var line = new Array(26);
 var fs = require("fs");
 var head = "ca";
+let index = 0;
 
 var queryList = [];
 for (var i = 0; i < line.length; i++) {
@@ -28,10 +29,16 @@ for (var q = 0; q < key.length; q++) {
         var c = "";
         c = b2 + key[q2];
         queryList.push(c);
+        if (queryList.length > 4000) {
+          fs.writeFileSync(
+            "./list/" + head + index + ".json",
+            JSON.stringify(queryList)
+          );
+          queryList = [];
+          index = index + 1;
+        }
       }
     }
   }
 }
 // }
-
-fs.writeFileSync("./list/" + head + ".json", JSON.stringify(queryList));
