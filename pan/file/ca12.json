@@ -1,22 +1,27 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaEl2",
-		"title": "快穿任务.txt"
+		"title": "快穿任务.txt",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaElg",
-		"title": "113.jpg"
+		"title": "113.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaElr",
-		"title": "19期.pdf"
+		"title": "19期.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaElT",
-		"title": "IMG_20151022_112459.jpg"
+		"title": "IMG_20151022_112459.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaElu",
-		"title": "DRX-Ascend彩页.pdf"
+		"title": "DRX-Ascend彩页.pdf",
+		"detail": "single_file_page"
 	}
 ]

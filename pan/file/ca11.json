@@ -1,99 +1,123 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaejT",
-		"title": "2016-02-21 172346.jpg"
+		"title": "2016-02-21 172346.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaejx",
-		"title": "orange"
+		"title": "orange",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaejZ",
-		"title": "2016-07-09 194626.jpg"
+		"title": "2016-07-09 194626.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJa",
-		"title": "PmcenterEmer.gba"
+		"title": "PmcenterEmer.gba",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJA",
-		"title": "2016-09-10 174845.jpg"
+		"title": "2016-09-10 174845.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJE",
-		"title": "231084199508243727.jpg"
+		"title": "231084199508243727.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJ6",
-		"title": "2016-08-19 180330.jpg"
+		"title": "2016-08-19 180330.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJI",
-		"title": "2016.9.11丽水金阳"
+		"title": "2016.9.11丽水金阳",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJJ",
-		"title": "20131006_105429.jpg"
+		"title": "20131006_105429.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJ9",
-		"title": "【高级篇】-16 吠叫与安静.mpg"
+		"title": "【高级篇】-16 吠叫与安静.mpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJn",
-		"title": "图像00511.jpg"
+		"title": "图像00511.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJN",
-		"title": "逆行者专场演出 实况.mp4"
+		"title": "逆行者专场演出 实况.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJQ",
-		"title": "讲义"
+		"title": "讲义",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJs",
-		"title": "剑桥1-11原题+MP3"
+		"title": "剑桥1-11原题+MP3",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJY",
-		"title": "2014-03-17 111245.jpg"
+		"title": "2014-03-17 111245.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaeJZ",
-		"title": "胡凡2013060200019 胡菁2013060200020黄彭卫 2013060200022.mp4"
+		"title": "胡凡2013060200019 胡菁2013060200020黄彭卫 2013060200022.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae90",
-		"title": "1011时间风景.mp4"
+		"title": "1011时间风景.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9c",
-		"title": "2016-09-09 150553.jpg"
+		"title": "2016-09-09 150553.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9D",
-		"title": "2016-06-22 193655.jpg"
+		"title": "2016-06-22 193655.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9H",
-		"title": "倾城-电影.mp4"
+		"title": "倾城-电影.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae97",
-		"title": "青岛DJ宋哥 精选MCYY作品全女声【另一版】动感车载极品嗨碟.mp3"
+		"title": "青岛DJ宋哥 精选MCYY作品全女声【另一版】动感车载极品嗨碟.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae98",
-		"title": "0099_大闹tka.MP4"
+		"title": "0099_大闹tka.MP4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9j",
-		"title": "2016-09-10 220622.jpg"
+		"title": "2016-09-10 220622.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae99",
-		"title": "拥抱我吧，叶思远（全）.txt"
+		"title": "拥抱我吧，叶思远（全）.txt",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9n",
@@ -101,46 +125,57 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9s",
-		"title": "Faulkender_2006_01_P_.avi"
+		"title": "Faulkender_2006_01_P_.avi",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9u",
-		"title": "2016-07-06 150532.jpg"
+		"title": "2016-07-06 150532.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9v",
-		"title": "mmexport1465091107104.jpg"
+		"title": "mmexport1465091107104.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9z",
-		"title": "P1013374.JPG"
+		"title": "P1013374.JPG",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caae9Z",
-		"title": "2015-12-27 182944.jpg"
+		"title": "2015-12-27 182944.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaek3",
-		"title": "张宇数学"
+		"title": "张宇数学",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaek4",
-		"title": "GMOfThrones.衣柜字幕"
+		"title": "GMOfThrones.衣柜字幕",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaekf",
-		"title": "(C90) [CANVAS+GARDEN (宮坂みゆ、宮坂なこ)] Bouquet10.rar"
+		"title": "(C90) [CANVAS+GARDEN (宮坂みゆ、宮坂なこ)] Bouquet10.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaekg",
-		"title": "DSA2013_升级工具V2.0.exe"
+		"title": "DSA2013_升级工具V2.0.exe",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaekG",
-		"title": "2016-04-13 091429.jpg"
+		"title": "2016-04-13 091429.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaek7",
-		"title": "mmexport1466144378484.jpg"
+		"title": "mmexport1466144378484.jpg",
+		"detail": "multi_file"
 	}
 ]
