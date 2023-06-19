@@ -1,15 +1,20 @@
 const url = "/s/";
 var fs = require("fs");
+const p = require('path')
 var https = require("https");
+function dirPath(pa) {
+  return p.join(__dirname, pa)
+}
+let startIndex = 2000;
+let resultIndex = 2;
+let doIndex = 59
 
-function doPa() {
+function doPa(fileIndex) {
   const file = "ca";
-  const fileIndex = 1;
-  const path = file + fileIndex;
-  var queryList = require("./list/" + file + "/" + path + ".json");
-  query(0);
+  const resourcePath = file + fileIndex;
+  var queryList = require(dirPath("./list/" + file + "/" + resourcePath + ".json"));
+  query(startIndex);
   let result = [];
-  let resultIndex = 0;
 
   function query(index) {
     const path = queryList[index];
@@ -40,6 +45,7 @@ function doPa() {
             result.push({
               url: "https://pan.baidu.com" + url + fullPath,
               title: getTitle(html),
+              detail: getDetail(html)
             });
           }
           continueQuery(index);
@@ -60,7 +66,7 @@ function doPa() {
     if (index + 1 < queryList.length) {
       if (result.length >= 100) {
         fs.writeFileSync(
-          "./file/" + path + "_" + resultIndex + ".json",
+          dirPath("./file/" + resourcePath + "_" + resultIndex + ".json"),
           JSON.stringify(result, "", "\t")
         );
         result = [];
@@ -69,9 +75,12 @@ function doPa() {
       query(index + 1);
     } else {
       fs.writeFileSync(
-        "./file/" + path + ".json",
+        dirPath("./file/" + resourcePath + ".json"),
         JSON.stringify(result, "", "\t")
       );
+      startIndex = 0;
+      doPa(fileIndex + 1);
+      resultIndex = 0;
     }
   }
 
@@ -84,5 +93,9 @@ function doPa() {
         .replace("_免费高速下载|百度网盘-分享无限制", "");
     }
   }
+  function getDetail(html) {
+    const type = html.match('window.SHAREPAGETYPE=\'([a-z_]+)\'')
+    return type ? type[1] : '';
+  }
 }
-doPa();
+doPa(doIndex);
