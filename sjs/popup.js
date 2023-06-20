@@ -114,10 +114,11 @@ $(function () {
     } else if (BlueResult.length < 2) {
       BlueResult.push(getGroupNumber(time, BlueBall));
     }
-    const result =
-      numberSort(RedResult).join(", ") +
-      " | " +
-      numberSort(BlueResult).join(", ");
+    const result = `<span style="color:red">${numberSort(RedResult).join(
+      ", "
+    )}</span> | <span  style="color:blue">${numberSort(BlueResult).join(
+      ", "
+    )}</span>`;
     $("#number").html(fullResult + result);
     if (RedResult.length + BlueResult.length === 7) {
       fullResult += result + "<br/>";
