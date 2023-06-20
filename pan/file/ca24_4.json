@@ -1,15 +1,18 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaIRo",
-		"title": "W.2016.E01.mkv"
+		"title": "W.2016.E01.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIRY",
-		"title": "刘冬梅"
+		"title": "刘冬梅",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIsd",
-		"title": "2016-09-24 210830.jpg"
+		"title": "2016-09-24 210830.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIsf",
@@ -17,251 +20,313 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIsG",
-		"title": "mmexport1474338709817.jpg"
+		"title": "mmexport1474338709817.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIsl",
-		"title": "40张乐凯圣铂人像绒面"
+		"title": "40张乐凯圣铂人像绒面",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIsR",
-		"title": "H-463江苏鸟瞰无锡城市高楼 百年南京苏州 宣传片延时拍摄高清视频素材"
+		"title": "H-463江苏鸟瞰无锡城市高楼 百年南京苏州 宣传片延时拍摄高清视频素材",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIsV",
-		"title": "2016-02-14 094337.jpg"
+		"title": "2016-02-14 094337.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISH",
-		"title": "53f3a910633624d3.jpg"
+		"title": "53f3a910633624d3.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIS8",
-		"title": "DSCF1360.JPG"
+		"title": "DSCF1360.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISO",
-		"title": "强大的win7pe.zip"
+		"title": "强大的win7pe.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISP",
-		"title": "2014-08-01 202143.jpg"
+		"title": "2014-08-01 202143.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISS",
-		"title": "2017何KW面授--作文"
+		"title": "2017何KW面授--作文",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISt",
-		"title": "SH14th034.jpg"
+		"title": "SH14th034.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISY",
-		"title": "2014-12-21 220445.jpg"
+		"title": "2014-12-21 220445.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISz",
-		"title": "吴晨静2013"
+		"title": "吴晨静2013",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaISZ",
-		"title": "2016-02-18 110627.jpg"
+		"title": "2016-02-18 110627.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaItE",
-		"title": "2016-08-27 190324.jpg"
+		"title": "2016-08-27 190324.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaItG",
-		"title": "Oracle与SQLServe..pdf"
+		"title": "Oracle与SQLServe..pdf",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIt8",
-		"title": "10.mkv"
+		"title": "10.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaItN",
-		"title": "Chrome"
+		"title": "Chrome",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITA",
-		"title": "嘻哈帝国 Empire"
+		"title": "嘻哈帝国 Empire",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIT3",
-		"title": "我和x先生"
+		"title": "我和x先生",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITh",
-		"title": "3367937984100_4322.JPG"
+		"title": "3367937984100_4322.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITM",
-		"title": "[梦想字幕组]High.Kick.S3E001【高清精美特效】.rmvb"
+		"title": "[梦想字幕组]High.Kick.S3E001【高清精美特效】.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITP",
-		"title": "X4安装包加序列号.rar"
+		"title": "X4安装包加序列号.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITq",
-		"title": "新建文件夹 (2)"
+		"title": "新建文件夹 (2)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITr",
-		"title": "DSC_5263.JPG"
+		"title": "DSC_5263.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITV",
-		"title": "DSC_0368.JPG"
+		"title": "DSC_0368.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaITz",
-		"title": "720P.EP13.mp4"
+		"title": "720P.EP13.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIu0",
-		"title": "2016陈建伍"
+		"title": "2016陈建伍",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIuG",
-		"title": "adobe"
+		"title": "adobe",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIuI",
-		"title": "医者不自持.txt"
+		"title": "医者不自持.txt",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIu8",
-		"title": "DSC_0017.JPG"
+		"title": "DSC_0017.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIuJ",
-		"title": "吉他曲：童话-1.m4a"
+		"title": "吉他曲：童话-1.m4a",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIu9",
-		"title": "2016-09-02 152748.jpg"
+		"title": "2016-09-02 152748.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIuK",
-		"title": "俐马知垚陆.When.Larry.Met.Mary.2016.HD720P.www.llduang.com.mp4"
+		"title": "俐马知垚陆.When.Larry.Met.Mary.2016.HD720P.www.llduang.com.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIuT",
-		"title": "IMG_6768.jpg"
+		"title": "IMG_6768.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIuV",
-		"title": "3.22杨帅口语高分班"
+		"title": "3.22杨帅口语高分班",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIux",
-		"title": "P5050046.AVI"
+		"title": "P5050046.AVI",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUc",
-		"title": "160924热波"
+		"title": "160924热波",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUE",
-		"title": "[Maho.sub][プリンセスナイト☆カチュア1-3"
+		"title": "[Maho.sub][プリンセスナイト☆カチュア1-3",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIU6",
-		"title": "Love.and.Other.Drugs.2010.BluRay.720p.x264.AAC-iSCG.mp4"
+		"title": "Love.and.Other.Drugs.2010.BluRay.720p.x264.AAC-iSCG.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUI",
-		"title": "9.24生日趴拍摄底片"
+		"title": "9.24生日趴拍摄底片",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUQ",
-		"title": "徐涛20160924"
+		"title": "徐涛20160924",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUt",
-		"title": "[阳光电影www.ygdy8.com].危城.HD.720p.国语中字.rmvb"
+		"title": "[阳光电影www.ygdy8.com].危城.HD.720p.国语中字.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUU",
-		"title": "20套商务PPT模板.rar"
+		"title": "20套商务PPT模板.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIUW",
-		"title": "DSCF1281.JPG"
+		"title": "DSCF1281.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIva",
-		"title": "2016北京三里屯t咪团队接发拍摄"
+		"title": "2016北京三里屯t咪团队接发拍摄",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIv1",
-		"title": "照片"
+		"title": "照片",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIvC",
-		"title": "VID_20140717_200644.mp4"
+		"title": "VID_20140717_200644.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIvh",
-		"title": "小学英语招聘考试面试_说课及模拟上课视频（第三届二等奖）作品三.flv"
+		"title": "小学英语招聘考试面试_说课及模拟上课视频（第三届二等奖）作品三.flv",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIvv",
-		"title": "Germany"
+		"title": "Germany",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIvW",
-		"title": "英语"
+		"title": "英语",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIvx",
-		"title": "恶作剧系列漫画下载.rar"
+		"title": "恶作剧系列漫画下载.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIV2",
-		"title": "花园墙外"
+		"title": "花园墙外",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVE",
-		"title": "[www.2cl.cc]SS.HD720P.mp4"
+		"title": "[www.2cl.cc]SS.HD720P.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVH",
-		"title": "华健 佼心食堂.mp4"
+		"title": "华健 佼心食堂.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVi",
-		"title": "DSC_0377.JPG"
+		"title": "DSC_0377.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVL",
-		"title": "IMG_6104.JPG"
+		"title": "IMG_6104.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVP",
-		"title": "蜡笔小新剧场版24： 爆睡！梦世界大作战.2016.HD720P.国语中字.mp4"
+		"title": "蜡笔小新剧场版24： 爆睡！梦世界大作战.2016.HD720P.国语中字.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVQ",
-		"title": "2016下行测 - （微行测）.pdf"
+		"title": "2016下行测 - （微行测）.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVS",
-		"title": "烈丶日灼心.The.Dead.End.2015.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4"
+		"title": "烈丶日灼心.The.Dead.End.2015.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVU",
-		"title": "720P.EP13.mp4"
+		"title": "720P.EP13.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVz",
-		"title": "2016-06-26 115543.jpg"
+		"title": "2016-06-26 115543.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIVZ",
-		"title": "IMG_20140512_164914.jpg"
+		"title": "IMG_20140512_164914.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIw2",
@@ -269,71 +334,88 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIwH",
-		"title": "李依轩 (9).JPG"
+		"title": "李依轩 (9).JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIwt",
-		"title": "八年级上册语文"
+		"title": "八年级上册语文",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIwy",
-		"title": "无贴图"
+		"title": "无贴图",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIwY",
-		"title": "釜山行.Train.To.Busan.2016.HD1080P.X264.AAC.Korean.CHS.Mp4Ba.mp4"
+		"title": "釜山行.Train.To.Busan.2016.HD1080P.X264.AAC.Korean.CHS.Mp4Ba.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWa",
-		"title": "java web（基础班+就业班）"
+		"title": "java web（基础班+就业班）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWC",
-		"title": "141c2294123120-1A923.jpg"
+		"title": "141c2294123120-1A923.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIW5",
-		"title": "IMG_20160829_231227.jpg"
+		"title": "IMG_20160829_231227.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWG",
-		"title": "诗雨"
+		"title": "诗雨",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWp",
-		"title": "2016-08-20 193811.jpg"
+		"title": "2016-08-20 193811.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWq",
-		"title": "IMG_20160730_200528.jpg"
+		"title": "IMG_20160730_200528.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWs",
-		"title": "IMG_6117.JPG"
+		"title": "IMG_6117.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWV",
-		"title": "冰焰·降魔传[超火单职业].rar"
+		"title": "冰焰·降魔传[超火单职业].rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWz",
-		"title": "闷骚音乐-没有你陪伴我真的好孤单(DJ普酒-宇Remix).mp3"
+		"title": "闷骚音乐-没有你陪伴我真的好孤单(DJ普酒-宇Remix).mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIWZ",
-		"title": "2016-04-28 161951.jpg"
+		"title": "2016-04-28 161951.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIx0",
-		"title": "精美记事本设计矢量素材 - 德森素材 - 德森网"
+		"title": "精美记事本设计矢量素材 - 德森素材 - 德森网",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxH",
-		"title": "333.rar"
+		"title": "333.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxi",
-		"title": "2016-07-31 230205.jpg"
+		"title": "2016-07-31 230205.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxl",
@@ -341,62 +423,77 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxm",
-		"title": "吸伸腿与大踢腿.mp3"
+		"title": "吸伸腿与大踢腿.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxO",
-		"title": "2016-08-10 201640.jpg"
+		"title": "2016-08-10 201640.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxq",
-		"title": "9月24日-空缺《无线端上升法》TX.7z_免费��速下载|百度网盘-分享无限制"
+		"title": "9月24日-空缺《无线端上升法》TX.7z_免费��速下载|百度网盘-分享无限制",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIxU",
-		"title": "IMG_5938.jpg"
+		"title": "IMG_5938.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXb",
-		"title": "4FA068548137306A2041A254A139954C.mp4"
+		"title": "4FA068548137306A2041A254A139954C.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIX5",
-		"title": "03 Que Lo Que.mp3"
+		"title": "03 Que Lo Que.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXh",
-		"title": "1447245164019.jpeg"
+		"title": "1447245164019.jpeg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXJ",
-		"title": "cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso"
+		"title": "cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXs",
-		"title": "2016-05-29 181900.jpg"
+		"title": "2016-05-29 181900.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXt",
-		"title": "EP13.mkv"
+		"title": "EP13.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXu",
-		"title": "DSC_5002.JPG"
+		"title": "DSC_5002.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXV",
-		"title": "1448092832104.jpeg"
+		"title": "1448092832104.jpeg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIXz",
-		"title": "专题20.mp4"
+		"title": "专题20.mp4",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIy9",
-		"title": "2016-08-05 194428.jpg"
+		"title": "2016-08-05 194428.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaIyK",
-		"title": "〖BTS_闵糖〗 140414田柾国怒那.mp3"
+		"title": "〖BTS_闵糖〗 140414田柾国怒那.mp3",
+		"detail": "single_file_page"
 	}
 ]

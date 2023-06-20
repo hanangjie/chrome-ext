@@ -1,402 +1,502 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caahI3",
-		"title": "资料4.png"
+		"title": "资料4.png",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahIF",
-		"title": "第八版书(1)"
+		"title": "第八版书(1)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahIG",
-		"title": "DSC_3986_1.jpg"
+		"title": "DSC_3986_1.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahIh",
-		"title": "20150626_111751.jpg"
+		"title": "20150626_111751.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahIK",
-		"title": "釜山行 2016 中字"
+		"title": "釜山行 2016 中字",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahIT",
-		"title": "低身長１４８㌢Ｇカップくびれ"
+		"title": "低身長１４８㌢Ｇカップくびれ",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahIX",
-		"title": "20150124_121456.jpg"
+		"title": "20150124_121456.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8b",
-		"title": "禅哥—路虎-捷豹路虎车系应急救援指南_三_.pdf"
+		"title": "禅哥—路虎-捷豹路虎车系应急救援指南_三_.pdf",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah82",
-		"title": "mmexport1471874895317.jpg"
+		"title": "mmexport1471874895317.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8E",
-		"title": "IPAD 安卓 点读美国系列 1222本"
+		"title": "IPAD 安卓 点读美国系列 1222本",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah84",
-		"title": "短信模板1.docx"
+		"title": "短信模板1.docx",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8G",
-		"title": "圆月梅花.wmv"
+		"title": "圆月梅花.wmv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah88",
-		"title": "普析GMP法规数据完整性解决方案（药典研讨班）.pdf"
+		"title": "普析GMP法规数据完整性解决方案（药典研讨班）.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8M",
-		"title": "活动目标.doc"
+		"title": "活动目标.doc",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8n",
-		"title": "3寸 旺旺名 bleok"
+		"title": "3寸 旺旺名 bleok",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8o",
-		"title": "IMG_20160408_085525.jpg"
+		"title": "IMG_20160408_085525.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8p",
-		"title": "Let&#39;s Go Phonics Book 1-3册 （高清pdf+mp3音频）"
+		"title": "Let&#39;s Go Phonics Book 1-3册 （高清pdf+mp3音频）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8Q",
-		"title": "癫痫好医生.apk"
+		"title": "癫痫好医生.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8s",
-		"title": "2015-09-30 205832.jpg"
+		"title": "2015-09-30 205832.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8t",
-		"title": "20160913如新品牌故事之一.mp3"
+		"title": "20160913如新品牌故事之一.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8T",
-		"title": "IMG_20151231_100136.jpg"
+		"title": "IMG_20151231_100136.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8x",
-		"title": "2015-06-09 160001.jpg"
+		"title": "2015-06-09 160001.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8z",
-		"title": "卓越集团管控人力资源管控03_lop.rmvb"
+		"title": "卓越集团管控人力资源管控03_lop.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah8Z",
-		"title": "武汉农商行.mpg"
+		"title": "武汉农商行.mpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahjg",
-		"title": "荷兰照片"
+		"title": "荷兰照片",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahj6",
-		"title": "2016-04-29 081320.jpg"
+		"title": "2016-04-29 081320.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahjH",
-		"title": "IMG_20160803_214640.jpg"
+		"title": "IMG_20160803_214640.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahjq",
-		"title": "Train.To.Busan.2016.HDRip.H264.AAC-Unknown.mp4"
+		"title": "Train.To.Busan.2016.HDRip.H264.AAC-Unknown.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahjr",
-		"title": "闹钟"
+		"title": "闹钟",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahjv",
-		"title": "滇西北第一批"
+		"title": "滇西北第一批",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahjV",
-		"title": "白沙古镇8.20.mpg"
+		"title": "白沙古镇8.20.mpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJ1",
-		"title": "邪［DVD原盘］"
+		"title": "邪［DVD原盘］",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJd",
-		"title": "_87A6185.jpg"
+		"title": "_87A6185.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJ4",
-		"title": "20150124_121402.jpg"
+		"title": "20150124_121402.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJg",
-		"title": "P9110801.JPG"
+		"title": "P9110801.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJG",
-		"title": "IMG_9200.JPG"
+		"title": "IMG_9200.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJN",
-		"title": "2016年国考系统精讲班资料分析讲义.rar"
+		"title": "2016年国考系统精讲班资料分析讲义.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJt",
-		"title": "16蚂蚁之家.mp4"
+		"title": "16蚂蚁之家.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJV",
-		"title": "【第三章 消费税】消费税申报资料及填制说明"
+		"title": "【第三章 消费税】消费税申报资料及填制说明",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahJy",
-		"title": "IMG_4274.JPG"
+		"title": "IMG_4274.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah9A",
-		"title": "上册"
+		"title": "上册",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah90",
-		"title": "我爱面包机我的第一本面包机烘焙书高清扫描.pdf"
+		"title": "我爱面包机我的第一本面包机烘焙书高清扫描.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah9D",
-		"title": "833 国III彩页2.jpg"
+		"title": "833 国III彩页2.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah93",
-		"title": "新文档 2120160913090946532.pdf"
+		"title": "新文档 2120160913090946532.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah96",
-		"title": "2016-05-23 195016.jpg"
+		"title": "2016-05-23 195016.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah9M",
-		"title": "南传(资本运作连锁销售)自助反洗脑流程.rar"
+		"title": "南传(资本运作连锁销售)自助反洗脑流程.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah9N",
-		"title": "20140822_142122.jpg"
+		"title": "20140822_142122.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah9P",
-		"title": "2015-05-27 160539.mov"
+		"title": "2015-05-27 160539.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caah9u",
-		"title": "学习看懂汽车电路图（彩色学习书）.pdf"
+		"title": "学习看懂汽车电路图（彩色学习书）.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahk0",
-		"title": "IMG_8265.JPG"
+		"title": "IMG_8265.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkb",
-		"title": "Mrs-闵 - 【Special】WINGS AWAKE JIN Cut.2.mp3"
+		"title": "Mrs-闵 - 【Special】WINGS AWAKE JIN Cut.2.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahk5",
-		"title": "_DSC0997.JPG"
+		"title": "_DSC0997.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkh",
-		"title": "BLACK PINK练习室背景音乐.mp3"
+		"title": "BLACK PINK练习室背景音乐.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahk7",
-		"title": "新办公室网络方案.docx"
+		"title": "新办公室网络方案.docx",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkI",
-		"title": "【一日图包】160912"
+		"title": "【一日图包】160912",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahk8",
-		"title": "EP27.390影视.mp4"
+		"title": "EP27.390影视.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkJ",
-		"title": "EP27.mp4"
+		"title": "EP27.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkp",
-		"title": "mmexport1461603902551.jpg"
+		"title": "mmexport1461603902551.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkr",
-		"title": "女人如烟.mp3"
+		"title": "女人如烟.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahkW",
-		"title": "王普&amp;熊辰晨.mp4"
+		"title": "王普&amp;熊辰晨.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKc",
-		"title": "初级造型知识等多个文件"
+		"title": "初级造型知识等多个文件",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahK3",
-		"title": "20160207_173251.jpg"
+		"title": "20160207_173251.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKE",
-		"title": "2016-07-26 183804.jpg"
+		"title": "2016-07-26 183804.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKf",
-		"title": "2015-10-24 140709.jpg"
+		"title": "2015-10-24 140709.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKj",
-		"title": "3DMGAME-GTA5.Simple.Weather.and.Time.mod.rar"
+		"title": "3DMGAME-GTA5.Simple.Weather.and.Time.mod.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKL",
-		"title": "2016-09-12 115729.jpg"
+		"title": "2016-09-12 115729.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKm",
-		"title": "2016-06-01 180800.jpg"
+		"title": "2016-06-01 180800.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKo",
-		"title": "中三班名单.doc"
+		"title": "中三班名单.doc",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahKT",
-		"title": "IMAG2749.jpg"
+		"title": "IMAG2749.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahlF",
-		"title": "照片墙 9.12.mp4"
+		"title": "照片墙 9.12.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahli",
-		"title": "VMware Workstation 10"
+		"title": "VMware Workstation 10",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahlW",
-		"title": "第二天：天问：新人启动流程梳理（内部使用）.mp3"
+		"title": "第二天：天问：新人启动流程梳理（内部使用）.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLE",
-		"title": "袁东结构化面试极致必胜课程讲义.pdf"
+		"title": "袁东结构化面试极致必胜课程讲义.pdf",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLJ",
-		"title": "2016-03-21 124359.jpg"
+		"title": "2016-03-21 124359.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLl",
-		"title": "5.1.mp4"
+		"title": "5.1.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLm",
-		"title": "20160316_172718.jpg"
+		"title": "20160316_172718.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLn",
-		"title": "马新华右半加直肠大网膜"
+		"title": "马新华右半加直肠大网膜",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLu",
-		"title": "杀手级中介技术"
+		"title": "杀手级中介技术",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLv",
-		"title": "鄂尔多斯马拉松50s（8.31版）.mov"
+		"title": "鄂尔多斯马拉松50s（8.31版）.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLw",
-		"title": "暑假笔记"
+		"title": "暑假笔记",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahLX",
-		"title": "万桥网络微信开发合同.doc"
+		"title": "万桥网络微信开发合同.doc",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahma",
-		"title": "DSC_0050_副本.jpg"
+		"title": "DSC_0050_副本.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahme",
-		"title": "IMG_5353.JPG"
+		"title": "IMG_5353.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahmf",
-		"title": "托福"
+		"title": "托福",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahmg",
-		"title": "QQ秒赞网3.1.3.apk"
+		"title": "QQ秒赞网3.1.3.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahmH",
-		"title": "11.重链素材.avi"
+		"title": "11.重链素材.avi",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahmX",
-		"title": "线刷包"
+		"title": "线刷包",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahM0",
-		"title": "图像0155.jpg"
+		"title": "图像0155.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMB",
-		"title": "2014-10-22 234248.jpg"
+		"title": "2014-10-22 234248.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahM2",
-		"title": "瑕之美 特殊孩子艺术节 2015.mp4"
+		"title": "瑕之美 特殊孩子艺术节 2015.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahM3",
-		"title": "8符格教学大法"
+		"title": "8符格教学大法",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahM5",
-		"title": "50498_97713987242_2744182_n.jpg"
+		"title": "50498_97713987242_2744182_n.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahM6",
-		"title": "（第八节）烟叶税纳税申报表"
+		"title": "（第八节）烟叶税纳税申报表",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMH",
-		"title": "2016-07-16 144726.jpg"
+		"title": "2016-07-16 144726.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMI",
-		"title": "[TSKS][Love In The Moonlight][E007(720P)][KO_CN].mkv"
+		"title": "[TSKS][Love In The Moonlight][E007(720P)][KO_CN].mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMK",
-		"title": "lhsdslyqsgl【添翼精品讲座www.tymsjz.com】05-pds.rm"
+		"title": "lhsdslyqsgl【添翼精品讲座www.tymsjz.com】05-pds.rm",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMl",
-		"title": "会旗.jpg"
+		"title": "会旗.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMn",
-		"title": "3DMGAME-PES2017-ps4qydrbd.rar"
+		"title": "3DMGAME-PES2017-ps4qydrbd.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMq",
-		"title": "哈尔滨南站以及红色教育基地"
+		"title": "哈尔滨南站以及红色教育基地",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caahMS",
-		"title": "11. Ae Adobe After Effects CC 2015(64bit)"
+		"title": "11. Ae Adobe After Effects CC 2015(64bit)",
+		"detail": "multi_file"
 	}
 ]

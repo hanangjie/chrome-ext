@@ -1,58 +1,72 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caa6TI",
-		"title": "2016-09-18 154038.jpg"
+		"title": "2016-09-18 154038.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6To",
-		"title": "optional+courses"
+		"title": "optional+courses",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6TO",
-		"title": "IMG20160811163909.jpg"
+		"title": "IMG20160811163909.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6Ty",
-		"title": "chapter 25.doc"
+		"title": "chapter 25.doc",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6uB",
-		"title": "黒獣"
+		"title": "黒獣",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6u1",
-		"title": "海洋之歌.mp4"
+		"title": "海洋之歌.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6ud",
-		"title": "隧道.HD1280超清韩语中字.mp4"
+		"title": "隧道.HD1280超清韩语中字.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6ue",
-		"title": "（下载这个）pojie插件SW2010-2016.Activator.SSQ.exe"
+		"title": "（下载这个）pojie插件SW2010-2016.Activator.SSQ.exe",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6ug",
-		"title": "流体力学"
+		"title": "流体力学",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6u6",
-		"title": "071.JPG"
+		"title": "071.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6uH",
-		"title": "[D_R][GBA][洛克人EXE5布鲁斯小队][RockmanEXE5_Team_of_Blues][日文版].zip"
+		"title": "[D_R][GBA][洛克人EXE5布鲁斯小队][RockmanEXE5_Team_of_Blues][日文版].zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6u7",
-		"title": "International sales DataBase 20150717-修正版.xlsx"
+		"title": "International sales DataBase 20150717-修正版.xlsx",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6uK",
-		"title": "2016-08-30 081926.jpg"
+		"title": "2016-08-30 081926.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa6uM",
-		"title": "4.水墨风格【简历封面+简历+自荐信】.doc"
+		"title": "4.水墨风格【简历封面+简历+自荐信】.doc",
+		"detail": "multi_file"
 	}
 ]

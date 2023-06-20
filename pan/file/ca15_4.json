@@ -1,11 +1,13 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaFhu",
-		"title": "百度云解压"
+		"title": "百度云解压",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFhX",
-		"title": "VIDEO_TS1"
+		"title": "VIDEO_TS1",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFH1",
@@ -13,390 +15,487 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHE",
-		"title": "2015-05-16 032202.jpg"
+		"title": "2015-05-16 032202.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHg",
-		"title": "9.21 - 副本小图"
+		"title": "9.21 - 副本小图",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHG",
-		"title": "Screenshot_2016-08-16-01-02-48.jpeg"
+		"title": "Screenshot_2016-08-16-01-02-48.jpeg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHK",
-		"title": "2015-12-09 144635.jpg"
+		"title": "2015-12-09 144635.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHm",
-		"title": "音乐"
+		"title": "音乐",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHp",
-		"title": "魔茶开业 兴哥嗨场.3gp"
+		"title": "魔茶开业 兴哥嗨场.3gp",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHR",
-		"title": "IMG_20140803_091843.jpg"
+		"title": "IMG_20140803_091843.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHv",
-		"title": "DSP控制器原理及应用 教学课件 ppt 作者 宁改娣　杨拴科 6.片内外设.rar"
+		"title": "DSP控制器原理及应用 教学课件 ppt 作者 宁改娣　杨拴科 6.片内外设.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFHX",
-		"title": "【素描】中国美院素描基础训练01.flv"
+		"title": "【素描】中国美院素描基础训练01.flv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF7E",
-		"title": "厨房吧台用品加盟细节.xlsx"
+		"title": "厨房吧台用品加盟细节.xlsx",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF7L",
-		"title": "综合考试艺术学等多个文件"
+		"title": "综合考试艺术学等多个文件",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF7Q",
-		"title": "晨风"
+		"title": "晨风",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF7t",
-		"title": "CSI.S07E10.480P.X264_S-Files.mp4"
+		"title": "CSI.S07E10.480P.X264_S-Files.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF7Y",
-		"title": "斗图神器.apk"
+		"title": "斗图神器.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFiA",
-		"title": "SW2012版本64位系统下载安装【潭州学院】"
+		"title": "SW2012版本64位系统下载安装【潭州学院】",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFi0",
-		"title": "[釜山行][韩国][恐怖][2016]"
+		"title": "[釜山行][韩国][恐怖][2016]",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFig",
-		"title": "office2010 64位"
+		"title": "office2010 64位",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFiM",
-		"title": "__takanashi_rikka_chuunibyou_demo_koi_ga_shitai__5304d884be80c4be4e65faa26ca2829c.jpg"
+		"title": "__takanashi_rikka_chuunibyou_demo_koi_ga_shitai__5304d884be80c4be4e65faa26ca2829c.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFin",
-		"title": "D.E.G.A音"
+		"title": "D.E.G.A音",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFis",
-		"title": "《解忧杂货店》作者：东野圭吾.mobi"
+		"title": "《解忧杂货店》作者：东野圭吾.mobi",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFiV",
-		"title": "左常波妇科美容班讲课视频7.rmvb"
+		"title": "左常波妇科美容班讲课视频7.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFiZ",
-		"title": "02. Ring My Bell (Inst.).mp3"
+		"title": "02. Ring My Bell (Inst.).mp3",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFI5",
-		"title": "怀柔婚纱照.7z"
+		"title": "怀柔婚纱照.7z",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFI9",
-		"title": "mmexport1399472288035_mr1399472760828.jpg"
+		"title": "mmexport1399472288035_mr1399472760828.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFIk",
-		"title": "64 bit"
+		"title": "64 bit",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFIT",
-		"title": "20150518_094141.jpg"
+		"title": "20150518_094141.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFIX",
-		"title": "DSC00769.JPG"
+		"title": "DSC00769.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF81",
-		"title": "150910 M COUNTDOWN Junho (From 2PM)Fire.mp4"
+		"title": "150910 M COUNTDOWN Junho (From 2PM)Fire.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF82",
-		"title": "15年法律法规与综合能力"
+		"title": "15年法律法规与综合能力",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF84",
-		"title": "照片0256.jpg"
+		"title": "照片0256.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF87",
-		"title": "史纲部分更新完毕"
+		"title": "史纲部分更新完毕",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF8p",
-		"title": "盛夏光年（2）.avi"
+		"title": "盛夏光年（2）.avi",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF8R",
-		"title": "2015-03-14 182420.mov"
+		"title": "2015-03-14 182420.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF8s",
-		"title": "2015-11-02 181337.jpg"
+		"title": "2015-11-02 181337.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF8t",
-		"title": "更多精彩关注微信公众号：哎生活vs爱生活.mp4"
+		"title": "更多精彩关注微信公众号：哎生活vs爱生活.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF8U",
-		"title": "邀请函-邮件合并技术最终.docx"
+		"title": "邀请函-邮件合并技术最终.docx",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF8Z",
-		"title": "2016-05-30 222608.jpg"
+		"title": "2016-05-30 222608.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFjc",
-		"title": "01、泡泡.mp4"
+		"title": "01、泡泡.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFjC",
-		"title": "皮卡丘_6.3.8.apk"
+		"title": "皮卡丘_6.3.8.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFjh",
-		"title": "IMG_2117.JPG"
+		"title": "IMG_2117.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFj8",
-		"title": "2012-04-25 140327.jpg"
+		"title": "2012-04-25 140327.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFjj",
-		"title": "BC1视频.zip"
+		"title": "BC1视频.zip",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFjP",
-		"title": "1.天问：影响力商法（内部）(必修）.m4a"
+		"title": "1.天问：影响力商法（内部）(必修）.m4a",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJa",
-		"title": "杨安娜速度女神分享"
+		"title": "杨安娜速度女神分享",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJb",
-		"title": "【SSK字幕组】AHS.S06E02.720p.HDTV.mkv"
+		"title": "【SSK字幕组】AHS.S06E02.720p.HDTV.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJc",
-		"title": "13106207797IMG_1263.JPG"
+		"title": "13106207797IMG_1263.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJC",
-		"title": "2015-06-19 001621.jpg"
+		"title": "2015-06-19 001621.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJ3",
-		"title": "Office2010_2010_XiTongZhiJia"
+		"title": "Office2010_2010_XiTongZhiJia",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJ4",
-		"title": "Electric Machinery 电机学 英汉双语 教学课件 ppt 作者 刘慧娟 英文课件 Chapter4 Induction machine.rar"
+		"title": "Electric Machinery 电机学 英汉双语 教学课件 ppt 作者 刘慧娟 英文课件 Chapter4 Induction machine.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJf",
-		"title": "Adobe Photoshop CS6.7z"
+		"title": "Adobe Photoshop CS6.7z",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJ9",
-		"title": "WINXPSP3.GHO"
+		"title": "WINXPSP3.GHO",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJM",
-		"title": "钟爱 (36).jpg"
+		"title": "钟爱 (36).jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJV",
-		"title": "IMG_6451.JPG"
+		"title": "IMG_6451.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJX",
-		"title": "00052.MTS"
+		"title": "00052.MTS",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFJz",
-		"title": "Key to Some Exercises_U3.doc"
+		"title": "Key to Some Exercises_U3.doc",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9C",
-		"title": "这简直是灵异事件！.zip"
+		"title": "这简直是灵异事件！.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9e",
-		"title": "9-23项目经理大会照片"
+		"title": "9-23项目经理大会照片",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9h",
-		"title": "14 大瀑布_1.mov"
+		"title": "14 大瀑布_1.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9J",
-		"title": "IMG_20160213_102902.jpg"
+		"title": "IMG_20160213_102902.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9K",
-		"title": "第三篇大苗老师21号传授答题秘籍.mp4"
+		"title": "第三篇大苗老师21号传授答题秘籍.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9o",
-		"title": "曼宁.rmvb"
+		"title": "曼宁.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9T",
-		"title": "1788潮鞋馆  A1873 中帮迷彩运动鞋 39-44 P60.zip"
+		"title": "1788潮鞋馆  A1873 中帮迷彩运动鞋 39-44 P60.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaF9v",
-		"title": "皇朝联盟.mp3"
+		"title": "皇朝联盟.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFkA",
-		"title": "XP框架教程【小米适用】"
+		"title": "XP框架教程【小米适用】",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFkK",
-		"title": "IMG_20160514_214818.jpg"
+		"title": "IMG_20160514_214818.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFkW",
-		"title": "01. EXO - Lotto.mp3"
+		"title": "01. EXO - Lotto.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKd",
-		"title": "5 词汇串讲"
+		"title": "5 词汇串讲",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKG",
-		"title": "2015-11-10 182720.jpg"
+		"title": "2015-11-10 182720.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFK6",
-		"title": "ex702台湾繁体版服务端+客户端.rar"
+		"title": "ex702台湾繁体版服务端+客户端.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKm",
-		"title": "灰姑娘720P.EP13.mkv"
+		"title": "灰姑娘720P.EP13.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKr",
-		"title": "MATLAB"
+		"title": "MATLAB",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKR",
-		"title": "Marvels.Agents.of.S.H.I.E.L.D.S04E01.720p.HDTV.x264-AVS.chs.eng.mp4"
+		"title": "Marvels.Agents.of.S.H.I.E.L.D.S04E01.720p.HDTV.x264-AVS.chs.eng.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKt",
-		"title": "8664646999.jpg"
+		"title": "8664646999.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFKz",
-		"title": "2015-04-22 111343(1).jpg"
+		"title": "2015-04-22 111343(1).jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlD",
-		"title": "2014-01-30 152310.jpg"
+		"title": "2014-01-30 152310.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFle",
-		"title": "霸象文化 -Y3012静态模板61-90"
+		"title": "霸象文化 -Y3012静态模板61-90",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlI",
-		"title": "{17 Sept 2016} Zhu Tings first fitness in Vakif.mp4"
+		"title": "{17 Sept 2016} Zhu Tings first fitness in Vakif.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlM",
-		"title": "四级照片.JPG"
+		"title": "四级照片.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlP",
-		"title": "大学计算机基础教程"
+		"title": "大学计算机基础教程",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlR",
-		"title": "《我曾在时光里听过你》作者：耳东兔子.txt"
+		"title": "《我曾在时光里听过你》作者：耳东兔子.txt",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlt",
-		"title": "罗均洪.jpg"
+		"title": "罗均洪.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlu",
-		"title": "IMG_20150112_204711.jpg"
+		"title": "IMG_20150112_204711.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlV",
-		"title": "Me before You.mp4"
+		"title": "Me before You.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFlx",
-		"title": "PGA411.pdf"
+		"title": "PGA411.pdf",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFLd",
-		"title": "乱步奇谭Game of Laplace[全11话][七月番]"
+		"title": "乱步奇谭Game of Laplace[全11话][七月番]",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFL3",
-		"title": "suprise video.zip"
+		"title": "suprise video.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFLu",
-		"title": "2015-12-23 183828.mov"
+		"title": "2015-12-23 183828.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFLU",
-		"title": "EDA技术教程教学课件 PPT 作者 梁勇 王留奎 第5章　Quartus II使用提高.rar"
+		"title": "EDA技术教程教学课件 PPT 作者 梁勇 王留奎 第5章　Quartus II使用提高.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFLv",
-		"title": "2016-06-25 155536.jpg"
+		"title": "2016-06-25 155536.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFLw",
-		"title": "2015-06-06 151536.jpg"
+		"title": "2015-06-06 151536.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFmc",
-		"title": "最深的地下城"
+		"title": "最深的地下城",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFmd",
-		"title": "1 绪论"
+		"title": "1 绪论",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFm3",
-		"title": "img-6f49927d4d38f749fec73640fa3a235b.jpg"
+		"title": "img-6f49927d4d38f749fec73640fa3a235b.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFmf",
-		"title": "谎言西西里TC.mp4"
+		"title": "谎言西西里TC.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFmO",
-		"title": "吴小英+刘小英"
+		"title": "吴小英+刘小英",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFmt",
-		"title": "アントワネットブルー.mp3"
+		"title": "アントワネットブルー.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaFM1",
-		"title": "迷情.txt"
+		"title": "迷情.txt",
+		"detail": "single_file_page"
 	}
 ]
