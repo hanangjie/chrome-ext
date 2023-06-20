@@ -1,27 +1,33 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaj9F",
-		"title": "釜山行"
+		"title": "釜山行",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj9G",
-		"title": "2016-06-21 155747.jpg"
+		"title": "2016-06-21 155747.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj9J",
-		"title": "三联图.rar"
+		"title": "三联图.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj9T",
-		"title": "五月天专辑《自传》"
+		"title": "五月天专辑《自传》",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj9u",
-		"title": "Mustad Catalog 2017 China.pdf"
+		"title": "Mustad Catalog 2017 China.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj9W",
-		"title": "希望.exe"
+		"title": "希望.exe",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj9Y",
@@ -29,343 +35,428 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkb",
-		"title": "俞凌雄 运管模式+领袖经营哲学 唐骏 10DVD"
+		"title": "俞凌雄 运管模式+领袖经营哲学 唐骏 10DVD",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkB",
-		"title": "现代实用社交礼仪 教学课件 PPT 作者 陈光谊 项目1课件项目2课件 任务5 空间礼仪.rar"
+		"title": "现代实用社交礼仪 教学课件 PPT 作者 陈光谊 项目1课件项目2课件 任务5 空间礼仪.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkC",
-		"title": "经典香辣"
+		"title": "经典香辣",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkH",
-		"title": "重生之歧路.txt"
+		"title": "重生之歧路.txt",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajk8",
-		"title": "IMG_20150509_141556.jpg"
+		"title": "IMG_20150509_141556.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkk",
-		"title": "改01.mp4"
+		"title": "改01.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkl",
-		"title": "8届资料"
+		"title": "8届资料",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkL",
-		"title": "2016-03-06 205646.jpg"
+		"title": "2016-03-06 205646.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkn",
-		"title": "釜山行"
+		"title": "釜山行",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajko",
-		"title": "20160906海洋水手美食篇"
+		"title": "20160906海洋水手美食篇",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajkR",
-		"title": "2016-09-11 062730.jpg"
+		"title": "2016-09-11 062730.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKA",
-		"title": "2016-08-28 184127.jpg"
+		"title": "2016-08-28 184127.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajK3",
-		"title": "2016-03-24 092828.jpg"
+		"title": "2016-03-24 092828.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKf",
-		"title": "mmexport1464262889234.jpg"
+		"title": "mmexport1464262889234.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKH",
-		"title": "2014-12-20 194838.jpg"
+		"title": "2014-12-20 194838.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKi",
-		"title": "G20.峰会文艺晚会.2016.HD1080P.mp4"
+		"title": "G20.峰会文艺晚会.2016.HD1080P.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKK",
-		"title": "7.mkv"
+		"title": "7.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKq",
-		"title": "LYTM VIDEO.zip"
+		"title": "LYTM VIDEO.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajKW",
-		"title": "修好的"
+		"title": "修好的",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajla",
-		"title": "2016-05-26 185531.png"
+		"title": "2016-05-26 185531.png",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajlG",
-		"title": "2016-09-11 113011.mov"
+		"title": "2016-09-11 113011.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajlh",
-		"title": "mmexport1410843200858.jpg"
+		"title": "mmexport1410843200858.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajlP",
-		"title": "IMG_2660.jpg"
+		"title": "IMG_2660.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajls",
-		"title": "釜山行"
+		"title": "釜山行",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajlv",
-		"title": "CKK_R7_Sh359_PNT_V01B"
+		"title": "CKK_R7_Sh359_PNT_V01B",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLa",
-		"title": "台湾rar.rar"
+		"title": "台湾rar.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLe",
-		"title": "步步J心-丽EP07.HD720P.mp4"
+		"title": "步步J心-丽EP07.HD720P.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLE",
-		"title": "机械原理视频"
+		"title": "机械原理视频",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajL6",
-		"title": "歌力思微信营销.pdf"
+		"title": "歌力思微信营销.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajL7",
-		"title": "夏季档《贤者之爱》"
+		"title": "夏季档《贤者之爱》",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLj",
-		"title": "2016128.jpg"
+		"title": "2016128.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajL9",
-		"title": "青山刚昌短篇集.Aoyama Goushou Tanpenshuu.MP4.torrent"
+		"title": "青山刚昌短篇集.Aoyama Goushou Tanpenshuu.MP4.torrent",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLo",
-		"title": "2、历年真题分类详细解析（项管必过神系列）.pdf"
+		"title": "2、历年真题分类详细解析（项管必过神系列）.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLO",
-		"title": "Me.Before.You.2016.720p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mp4"
+		"title": "Me.Before.You.2016.720p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLp",
-		"title": "da芬奇密码BD中英双字.rmvb"
+		"title": "da芬奇密码BD中英双字.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajLQ",
-		"title": "mmexport1471531373854.jpg"
+		"title": "mmexport1471531373854.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmD",
-		"title": "红色警戒2精简版.rar"
+		"title": "红色警戒2精简版.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmh",
-		"title": "IMG_2679.jpg"
+		"title": "IMG_2679.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmi",
-		"title": "简易视频科三.mp4"
+		"title": "简易视频科三.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajm8",
-		"title": "现代通信技术概论 教学课件 PPT 作者 彭英 王珺 卜益民 2第4章.rar"
+		"title": "现代通信技术概论 教学课件 PPT 作者 彭英 王珺 卜益民 2第4章.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmN",
-		"title": "22.mpg"
+		"title": "22.mpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmS",
-		"title": "DSCN0567.JPG"
+		"title": "DSCN0567.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmt",
-		"title": "01-基础班-赵耀"
+		"title": "01-基础班-赵耀",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmw",
-		"title": "【K莫】你是对的人.mp4"
+		"title": "【K莫】你是对的人.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmW",
-		"title": "IMG20140610002.jpg"
+		"title": "IMG20140610002.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajmz",
-		"title": "2016-05-18 230059.jpg"
+		"title": "2016-05-18 230059.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajMc",
-		"title": "极简轻.悦x7.itz"
+		"title": "极简轻.悦x7.itz",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajMK",
-		"title": "Audacity"
+		"title": "Audacity",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajMl",
-		"title": "花球1.VOB"
+		"title": "花球1.VOB",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajMO",
-		"title": "mmexport1469848862150.jpg"
+		"title": "mmexport1469848862150.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajMy",
-		"title": "果宝三国3.9-追忆破解版.apk"
+		"title": "果宝三国3.9-追忆破解版.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajnC",
-		"title": "SQLServer2000+SP4补丁.rar"
+		"title": "SQLServer2000+SP4补丁.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajnd",
-		"title": "VID20160913145756.mp4"
+		"title": "VID20160913145756.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajn3",
-		"title": "釜山行(1)"
+		"title": "釜山行(1)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajne",
-		"title": "2016-08-20 205511.jpg"
+		"title": "2016-08-20 205511.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajnK",
-		"title": "E15 更多资源关注微信公众号（伤心树）.mkv"
+		"title": "E15 更多资源关注微信公众号（伤心树）.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajno",
-		"title": "IPA辅音音标.mp4"
+		"title": "IPA辅音音标.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajns",
-		"title": "2016解密"
+		"title": "2016解密",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajnw",
-		"title": "2015-05-27 150249.jpg"
+		"title": "2015-05-27 150249.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajnW",
-		"title": "招魂2 The Conjuring 2 (2016)"
+		"title": "招魂2 The Conjuring 2 (2016)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNG",
-		"title": "2005-2015中传初试复试新闻传播类研招办官方真题汇编"
+		"title": "2005-2015中传初试复试新闻传播类研招办官方真题汇编",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajN6",
-		"title": "李旭峰"
+		"title": "李旭峰",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNM",
-		"title": "IMG_7891.jpg"
+		"title": "IMG_7891.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNN",
-		"title": "联系人备份文件_681f9661bd3f931142e81be306e4793b"
+		"title": "联系人备份文件_681f9661bd3f931142e81be306e4793b",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNP",
-		"title": "mmexport1472029069470.jpg"
+		"title": "mmexport1472029069470.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNV",
-		"title": "2016-01-14 185748.mov"
+		"title": "2016-01-14 185748.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNz",
-		"title": "bibabobiu"
+		"title": "bibabobiu",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajNZ",
-		"title": "釜山行(1)"
+		"title": "釜山行(1)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajo0",
-		"title": "我的资源"
+		"title": "我的资源",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajoE",
-		"title": "video_20160820_200641.zip"
+		"title": "video_20160820_200641.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajon",
-		"title": "绝句(迟日江山丽)-PPT（精）"
+		"title": "绝句(迟日江山丽)-PPT（精）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajop",
-		"title": "夏夜里的风.mp3"
+		"title": "夏夜里的风.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajoq",
-		"title": "013- 中道友子魔法立裁"
+		"title": "013- 中道友子魔法立裁",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajot",
-		"title": "VID20150606185141.mp4"
+		"title": "VID20150606185141.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajov",
-		"title": "我叫MT之山口山战记.2016.HD720P.国语中字.mp4"
+		"title": "我叫MT之山口山战记.2016.HD720P.国语中字.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajoV",
-		"title": "釜山行(1)"
+		"title": "釜山行(1)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajOb",
-		"title": "mmexport1470411905073.jpg"
+		"title": "mmexport1470411905073.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajO4",
-		"title": "我叫MT之山口山战记.Warrior.VS.Dragon.2016.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba"
+		"title": "我叫MT之山口山战记.Warrior.VS.Dragon.2016.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajOL",
-		"title": "2015-10-17 093941.jpg"
+		"title": "2015-10-17 093941.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajOw",
-		"title": "三星i9152+官方优化版.zip"
+		"title": "三星i9152+官方优化版.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajOx",
-		"title": "2015-12-17 135931.jpg"
+		"title": "2015-12-17 135931.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajpC",
-		"title": "_MG_4160.jpg"
+		"title": "_MG_4160.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajp9",
-		"title": "2017医学人文精讲"
+		"title": "2017医学人文精讲",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajpM",
-		"title": "_MG_4645.jpg"
+		"title": "_MG_4645.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajpo",
-		"title": "20140202_095000.jpg"
+		"title": "20140202_095000.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajpO",
@@ -373,30 +464,37 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajpS",
-		"title": "[Love In The Moonlight][E007(720P)][KO_CN].mkv"
+		"title": "[Love In The Moonlight][E007(720P)][KO_CN].mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajPc",
-		"title": "words56~59.mp3"
+		"title": "words56~59.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajPg",
-		"title": "侨香外国语学校2016届六（5）班毕业聚会照片（2）"
+		"title": "侨香外国语学校2016届六（5）班毕业聚会照片（2）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajPO",
-		"title": "Unit 9.mp3"
+		"title": "Unit 9.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajPp",
-		"title": "45.jpg"
+		"title": "45.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajPV",
-		"title": "Adobe Photoshop CS6完整中文版.rar"
+		"title": "Adobe Photoshop CS6完整中文版.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajPY",
-		"title": "DSCN0958.JPG"
+		"title": "DSCN0958.JPG",
+		"detail": "single_file_page"
 	}
 ]

@@ -1,26 +1,32 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaJ1l",
-		"title": "W两个世界"
+		"title": "W两个世界",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaJ1N",
-		"title": "office2013.zip"
+		"title": "office2013.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaJ1p",
-		"title": "mmexport1471137060725.jpg"
+		"title": "mmexport1471137060725.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaJ1q",
-		"title": "kjjc_lx04.doc"
+		"title": "kjjc_lx04.doc",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaJ1T",
-		"title": "力卓"
+		"title": "力卓",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaJ1Y",
-		"title": "羽毛球少女-组图"
+		"title": "羽毛球少女-组图",
+		"detail": "multi_file"
 	}
 ]

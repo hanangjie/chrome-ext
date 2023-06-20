@@ -1,7 +1,8 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaBdN",
-		"title": "mmexport1474437344574.jpg"
+		"title": "mmexport1474437344574.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaBdQ",
@@ -9,14 +10,17 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaBdv",
-		"title": "欢乐购商贸.mp4"
+		"title": "欢乐购商贸.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaBdV",
-		"title": "双生契-洛天依_乐正绫.mp3"
+		"title": "双生契-洛天依_乐正绫.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaBDA",
-		"title": "SRA"
+		"title": "SRA",
+		"detail": "multi_file"
 	}
 ]

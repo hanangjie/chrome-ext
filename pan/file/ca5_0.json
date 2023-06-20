@@ -1,67 +1,83 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caa1et",
-		"title": "夏至"
+		"title": "夏至",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1ev",
-		"title": "Endnote7.4"
+		"title": "Endnote7.4",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1ew",
-		"title": "2016-03-22 111323.jpg"
+		"title": "2016-03-22 111323.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ea",
-		"title": "2016-05-29 173025.jpg"
+		"title": "2016-05-29 173025.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1EA",
-		"title": "2015-04-14 191209.jpg"
+		"title": "2015-04-14 191209.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1E2",
-		"title": "赢鼎机器人发布会"
+		"title": "赢鼎机器人发布会",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ef",
-		"title": "日本QQ2012.apk"
+		"title": "日本QQ2012.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1EI",
-		"title": "the art of speeches and presentations - philip collins.mobi"
+		"title": "the art of speeches and presentations - philip collins.mobi",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1E8",
-		"title": "5S显示管.jpg"
+		"title": "5S显示管.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ej",
-		"title": "one day.rmvb"
+		"title": "one day.rmvb",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1En",
-		"title": "2006978982_mh1474206976030.jpg"
+		"title": "2006978982_mh1474206976030.jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ew",
-		"title": "BODY JAM 66 Video.mp4"
+		"title": "BODY JAM 66 Video.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ex",
-		"title": "IMG_20160620_111923.jpg"
+		"title": "IMG_20160620_111923.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1EY",
-		"title": "DevExpress"
+		"title": "DevExpress",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1EZ",
-		"title": "酷珀K33B"
+		"title": "酷珀K33B",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa14B",
-		"title": "2016-08-07 234925.jpg"
+		"title": "2016-08-07 234925.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa144",
@@ -69,334 +85,417 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa145",
-		"title": "D20018全世界聪明孩子都在做的600个智力游戏(苏豫)_sample.pdf"
+		"title": "D20018全世界聪明孩子都在做的600个智力游戏(苏豫)_sample.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa14I",
-		"title": "陈逸轩"
+		"title": "陈逸轩",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa14r",
-		"title": "8b9988e681e3fd3bbd6573c82b21ccd0.jpg"
+		"title": "8b9988e681e3fd3bbd6573c82b21ccd0.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa14X",
-		"title": "澳洲-莹上传"
+		"title": "澳洲-莹上传",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fF",
-		"title": "2016-08-12 093732.jpg"
+		"title": "2016-08-12 093732.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fg",
-		"title": "客厅6080.jpg"
+		"title": "客厅6080.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fG",
-		"title": "WrightInvestorsServiceInc_WrightInvestorsServiceComprehensiveReportforJuliusBaerGroupAG_Aug_19_2016.pdf"
+		"title": "WrightInvestorsServiceInc_WrightInvestorsServiceComprehensiveReportforJuliusBaerGroupAG_Aug_19_2016.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fJ",
-		"title": "2014-12-20 135331.jpg"
+		"title": "2014-12-20 135331.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fm",
-		"title": "兰州之星AH600升级申请资料.zip"
+		"title": "兰州之星AH600升级申请资料.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fN",
-		"title": "IMG_3384.JPG"
+		"title": "IMG_3384.JPG",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fR",
-		"title": "静脉输血.mov"
+		"title": "静脉输血.mov",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fX",
-		"title": "云免流"
+		"title": "云免流",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1fZ",
-		"title": "20141020_094837.jpg"
+		"title": "20141020_094837.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1F1",
-		"title": "深入理解计算机系统.pdf"
+		"title": "深入理解计算机系统.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Fj",
-		"title": "洗照片"
+		"title": "洗照片",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Fm",
-		"title": "百海-美工课程安排.zip"
+		"title": "百海-美工课程安排.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Fo",
-		"title": "开业视频1209_20160627130422.mp4"
+		"title": "开业视频1209_20160627130422.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1FO",
-		"title": "【MHLY】[XY&amp;Z][42(134)][BIG5][1280X720].rar"
+		"title": "【MHLY】[XY&amp;Z][42(134)][BIG5][1280X720].rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Fs",
-		"title": "2016-03-15 094638.jpg"
+		"title": "2016-03-15 094638.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Fv",
-		"title": "SLQJGame_23.exe"
+		"title": "SLQJGame_23.exe",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15C",
-		"title": "IMG_20160307_134146.jpg"
+		"title": "IMG_20160307_134146.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15d",
-		"title": "修正药业美添白介绍.doc"
+		"title": "修正药业美添白介绍.doc",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15E",
-		"title": "深厦班第三期-高端女性面谈6问-王瑞英.mp3"
+		"title": "深厦班第三期-高端女性面谈6问-王瑞英.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa158",
-		"title": "2016-05-07 180216.jpg"
+		"title": "2016-05-07 180216.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15L",
-		"title": "2015-08-04 154136.jpg"
+		"title": "2015-08-04 154136.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15V",
-		"title": "上海联通-NSN FDD-LTE单站核查优化测试记录表（宏站）-移动沪莘-2016-05-07.xlsx"
+		"title": "上海联通-NSN FDD-LTE单站核查优化测试记录表（宏站）-移动沪莘-2016-05-07.xlsx",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15w",
-		"title": "IMG_5106.JPG"
+		"title": "IMG_5106.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa15z",
-		"title": "釜山行(1)"
+		"title": "釜山行(1)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gB",
-		"title": "2016-05-13 104547.jpg"
+		"title": "2016-05-13 104547.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gf",
-		"title": "IMG_3672.MOV"
+		"title": "IMG_3672.MOV",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gH",
-		"title": "2016-08-19 144144.jpg"
+		"title": "2016-08-19 144144.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gn",
-		"title": "言语理解"
+		"title": "言语理解",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gN",
-		"title": "h15郭石夫 大写意花鸟32讲全约20g"
+		"title": "h15郭石夫 大写意花鸟32讲全约20g",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1go",
-		"title": "上海电力学院811电力系统"
+		"title": "上海电力学院811电力系统",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gp",
-		"title": "2016-04-29 210854.jpg"
+		"title": "2016-04-29 210854.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gu",
-		"title": "16-面试的经验.pdf"
+		"title": "16-面试的经验.pdf",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gV",
-		"title": "诗辰志在成功纯净版全部13个"
+		"title": "诗辰志在成功纯净版全部13个",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gX",
-		"title": "[佳能EF镜头及配件日版宣传册]CANON-EF-EOS-ACC.pdf"
+		"title": "[佳能EF镜头及配件日版宣传册]CANON-EF-EOS-ACC.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gz",
-		"title": "2016-05-09 170430.jpg"
+		"title": "2016-05-09 170430.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1gZ",
-		"title": "2015-11-02 155931(2).jpg"
+		"title": "2015-11-02 155931(2).jpg",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1GI",
-		"title": "2016-03-12 125745.jpg"
+		"title": "2016-03-12 125745.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1G9",
-		"title": "检察官外传.720p.HD中字.mkv"
+		"title": "检察官外传.720p.HD中字.mkv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1GN",
-		"title": "2016-08-01 121648.jpg"
+		"title": "2016-08-01 121648.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Go",
-		"title": "2015-05-04 141350.jpg"
+		"title": "2015-05-04 141350.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1GP",
-		"title": "sdk-all-6.4.8.tar.gz"
+		"title": "sdk-all-6.4.8.tar.gz",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Gr",
-		"title": "清绿华检测平台测试协议书.doc"
+		"title": "清绿华检测平台测试协议书.doc",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Gt",
-		"title": "湘岳城市蒸菜.zip"
+		"title": "湘岳城市蒸菜.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Gu",
-		"title": "Adobe_Audition_CS6.7z"
+		"title": "Adobe_Audition_CS6.7z",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa16C",
-		"title": "黄执中辩论十讲----论点与推论_标清.flv"
+		"title": "黄执中辩论十讲----论点与推论_标清.flv",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa16d",
-		"title": "shapiro_step.pdf"
+		"title": "shapiro_step.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa163",
-		"title": "office2013"
+		"title": "office2013",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa164",
-		"title": "案例素材"
+		"title": "案例素材",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa16F",
-		"title": "IMG_8113.jpg"
+		"title": "IMG_8113.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa16K",
-		"title": "2016-07-12 112020.jpg"
+		"title": "2016-07-12 112020.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa16o",
-		"title": "cnt rope"
+		"title": "cnt rope",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa16O",
-		"title": "IMG_20160509_082005-1.jpg"
+		"title": "IMG_20160509_082005-1.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1hA",
-		"title": "如意"
+		"title": "如意",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1h1",
-		"title": "全新【极之至美】系列高清图片&amp;新闻稿&amp;产品介绍.zip"
+		"title": "全新【极之至美】系列高清图片&amp;新闻稿&amp;产品介绍.zip",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1h8",
-		"title": "2014-08-14 125158.jpg"
+		"title": "2014-08-14 125158.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1hm",
-		"title": "IMG_20160812_162114.jpg"
+		"title": "IMG_20160812_162114.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1ho",
-		"title": "2016-02-15_23-11-08_583.jpg"
+		"title": "2016-02-15_23-11-08_583.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1HA",
-		"title": "抵.岸--国考班"
+		"title": "抵.岸--国考班",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1H3",
-		"title": "2016年9月18日 上午11_10_59NDO.mp3"
+		"title": "2016年9月18日 上午11_10_59NDO.mp3",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1H9",
-		"title": "2015-08-11 204744.jpg"
+		"title": "2015-08-11 204744.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Hn",
-		"title": "X1508.pdf"
+		"title": "X1508.pdf",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ho",
-		"title": "【lol电影天堂www.loldytt.com】D鱼海棠.TC1280清晰国语中字.mp4"
+		"title": "【lol电影天堂www.loldytt.com】D鱼海棠.TC1280清晰国语中字.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1HR",
-		"title": "绝地.mp4"
+		"title": "绝地.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1HS",
-		"title": "高大上IOS毛玻璃风格PPT模板(10份)_20141118103400.rar"
+		"title": "高大上IOS毛玻璃风格PPT模板(10份)_20141118103400.rar",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1Ht",
-		"title": "2016-05-14 082105(4).png"
+		"title": "2016-05-14 082105(4).png",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17e",
-		"title": "最新35讲核反应堆物理分析视频"
+		"title": "最新35讲核反应堆物理分析视频",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17H",
-		"title": "一件免流.apk"
+		"title": "一件免流.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa179",
-		"title": "《OLED旋律篇》（HDR 10).mp4"
+		"title": "《OLED旋律篇》（HDR 10).mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17q",
-		"title": "《回眸一笑JQ起》作者：东奔西顾.txt"
+		"title": "《回眸一笑JQ起》作者：东奔西顾.txt",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17S",
-		"title": "尚学堂科技_马士兵_J2SE_5.0_第07章_容器"
+		"title": "尚学堂科技_马士兵_J2SE_5.0_第07章_容器",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17u",
-		"title": "2016-08-08 001248.jpg"
+		"title": "2016-08-08 001248.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17w",
-		"title": "DJ成旭 - faded [mqms2].mp3"
+		"title": "DJ成旭 - faded [mqms2].mp3",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa17y",
-		"title": "SelfieCity_20160913225803_org.jpg"
+		"title": "SelfieCity_20160913225803_org.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1iC",
-		"title": "2016-07-03 110359.jpg"
+		"title": "2016-07-03 110359.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1ie",
-		"title": "0720 釜山行.mp4"
+		"title": "0720 釜山行.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1i4",
-		"title": "IMG_20160722_141123_HDR.jpg"
+		"title": "IMG_20160722_141123_HDR.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1iI",
-		"title": "水试验"
+		"title": "水试验",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1iJ",
-		"title": "00.安装视频教程+破解软件+解压密码"
+		"title": "00.安装视频教程+破解软件+解压密码",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caa1il",
-		"title": "2016-05-22 220227.jpg"
+		"title": "2016-05-22 220227.jpg",
+		"detail": "single_file_page"
 	}
 ]

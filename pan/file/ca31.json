@@ -1,54 +1,67 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caaL5J",
-		"title": "mmexport1474521968124.jpg"
+		"title": "mmexport1474521968124.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaL5k",
-		"title": "二级MS上机（1-21)"
+		"title": "二级MS上机（1-21)",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaL5P",
-		"title": "2016-09-22 103428.jpg"
+		"title": "2016-09-22 103428.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgB",
-		"title": "2013-05-13 101952.jpg"
+		"title": "2013-05-13 101952.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgD",
-		"title": "照相机.doc"
+		"title": "照相机.doc",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLge",
-		"title": "K线理论（上）"
+		"title": "K线理论（上）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgg",
-		"title": "IMG_20150520_211505.jpg"
+		"title": "IMG_20150520_211505.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgh",
-		"title": "沉迷学习不可自拔日渐消瘦"
+		"title": "沉迷学习不可自拔日渐消瘦",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLg8",
-		"title": "百度云6.1.0版本.ipa"
+		"title": "百度云6.1.0版本.ipa",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgJ",
-		"title": "2015UI"
+		"title": "2015UI",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgl",
-		"title": "社区"
+		"title": "社区",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgo",
-		"title": "B"
+		"title": "B",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaLgU",
-		"title": "Taylor Swift - Blank Space.mp3"
+		"title": "Taylor Swift - Blank Space.mp3",
+		"detail": "single_file_page"
 	}
 ]
