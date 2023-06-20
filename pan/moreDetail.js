@@ -12,7 +12,7 @@ function buqiDo() {
   if (listIndex < list.length) {
     if (item.includes("json")) {
       const jsonList = require(dirPath("./file/" + item));
-      if (!jsonList[0].detail) {
+      if (jsonList[0] && jsonList[0].detail === undefined) {
         query(0, jsonList);
       } else {
         listIndex = listIndex + 1;

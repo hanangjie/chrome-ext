@@ -1,31 +1,38 @@
 [
 	{
 		"url": "https://pan.baidu.com/s/1caajaZ",
-		"title": "2016-09-13 181309.jpg"
+		"title": "2016-09-13 181309.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAc",
-		"title": "釜山行高清无字 (中字版加微信xuan16609491领取).mp4"
+		"title": "釜山行高清无字 (中字版加微信xuan16609491领取).mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAD",
-		"title": "爱剪辑-穿越吧厨房-晓cut.avi"
+		"title": "爱剪辑-穿越吧厨房-晓cut.avi",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAI",
-		"title": "HP2A2140_副本.jpg"
+		"title": "HP2A2140_副本.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAK",
-		"title": "行测（更新完毕）"
+		"title": "行测（更新完毕）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAp",
-		"title": "23集串珠视频等多个文件"
+		"title": "23集串珠视频等多个文件",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAP",
-		"title": "我的小影第5部_20141217_021019.mp4"
+		"title": "我的小影第5部_20141217_021019.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajAT",
@@ -33,42 +40,52 @@
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj0A",
-		"title": "我的资源"
+		"title": "我的资源",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj0b",
-		"title": "MTXX_20160627160158.jpg"
+		"title": "MTXX_20160627160158.jpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj04",
-		"title": "李剑考研阅读真题（供翻译总结用）"
+		"title": "李剑考研阅读真题（供翻译总结用）",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj0l",
-		"title": "gcjj0102.mp4"
+		"title": "gcjj0102.mp4",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj0m",
-		"title": "无心本体MOD整合"
+		"title": "无心本体MOD整合",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caaj0o",
-		"title": "QQ 6.5——免核心全局白色字体透明修复版_sign.apk"
+		"title": "QQ 6.5——免核心全局白色字体透明修复版_sign.apk",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajb0",
-		"title": "IMG_1701.JPG"
+		"title": "IMG_1701.JPG",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajb1",
-		"title": "4.mpg"
+		"title": "4.mpg",
+		"detail": "single_file_page"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajbe",
-		"title": "温度滴定测定油品总酸总碱值"
+		"title": "温度滴定测定油品总酸总碱值",
+		"detail": "multi_file"
 	},
 	{
 		"url": "https://pan.baidu.com/s/1caajbh",
-		"title": "补丁.rar"
+		"title": "补丁.rar",
+		"detail": "single_file_page"
 	}
 ]
