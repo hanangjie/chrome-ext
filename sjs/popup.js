@@ -9,10 +9,18 @@ function init() {
   RedBall = [];
   BlueBall = [];
   for (let i = 1; i < 36; i++) {
-    RedBall.push(i);
+    if (i < 10) {
+      RedBall.push("0" + i);
+    } else {
+      RedBall.push(i);
+    }
   }
   for (let i = 1; i < 13; i++) {
-    BlueBall.push(i);
+    if (i < 10) {
+      BlueBall.push("0" + i);
+    } else {
+      BlueBall.push(i);
+    }
   }
 }
 
@@ -89,17 +97,38 @@ function createNumber(number) {
 }
 
 $(function () {
-  $("#create").click(() => {
+  let fullResult = "";
+  let time = 0;
+  let RedResult = [];
+  let BlueResult = [];
+  $("#start").click(() => {
+    RedResult = [];
+    BlueResult = [];
+    time = new Date().getTime();
     init();
-    var value = $("#code").val();
-    createNumber(value);
   });
-  $("#batchCreate").click(() => {
-    init();
-    batch = true;
-    createNumber(1);
-  });
-  $("#stopCreate").click(() => {
-    batch = false;
+  $("#stop").click(() => {
+    time = new Date().getTime() - time;
+    if (RedResult.length < 5) {
+      RedResult.push(getGroupNumber(time, RedBall));
+    } else if (BlueResult.length < 2) {
+      BlueResult.push(getGroupNumber(time, BlueBall));
+    }
+    const result = `<span style="color:red">${numberSort(RedResult).join(
+      ", "
+    )}</span> | <span  style="color:blue">${numberSort(BlueResult).join(
+      ", "
+    )}</span>`;
+    $("#number").html(fullResult + result);
+    if (RedResult.length + BlueResult.length === 7) {
+      fullResult += result + "<br/>";
+    }
   });
 });
+
+function numberSort(numArr) {
+  numArr.sort((v1, v2) => {
+    return Math.abs(v1) - Math.abs(v2);
+  });
+  return numArr;
+}
