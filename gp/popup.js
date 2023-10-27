@@ -46,16 +46,18 @@ function createEventSource() {
       const zf = (item.f2 / item.f18 - 1) * 100;
       const valChange = item.f4 / 100;
       total = total + +(gpList[item.f12].gu || 0) * valChange;
+      const textCode = `${item.f13 === 0 ? "sz" : "sh"}${item.f12}`;
       html += `<li style="color:${
         zf > 0 ? "red" : "green"
       }"><a style="text-decoration: none;color:${
         zf > 0 ? "red" : "green"
-      }" href="https://quote.eastmoney.com/${item.f13 === 0 ? "sz" : "sh"}${
+      }" href="https://quote.eastmoney.com/${textCode}.html#fullScreenChart" target="_blank">${
         item.f12
-      }.html#fullScreenChart" target="_blank">${item.f12} ${item.f14} ${(
-        item.f2 / 100
-      ).toFixed(2)} ${zf.toFixed(2)}% ${(item.f8 / 100).toFixed(2)}</a>
-      <span data-id="${item.f12}" >删除</span></li>`;
+      } ${item.f14} ${(item.f2 / 100).toFixed(2)} ${zf.toFixed(2)}% ${(
+        item.f8 / 100
+      ).toFixed(2)}</a>
+      <a href="https://quote.eastmoney.com/concept/${textCode}.html#chart-k-cyq"  target="_blank">筹码</a>&nbsp;
+      <span style="float:right" data-id="${item.f12}" >删除</span></li>`;
     });
     // $("#list").html(html + `<li>盈亏：${total}</li>`);
     $("#list").html(html);
