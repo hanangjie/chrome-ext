@@ -3,10 +3,17 @@ let initList = null;
 
 
 $(function () {
+  const now = new Date()
+  const time = `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`
   chrome.storage.sync.get("value", function (item) {
     // Notify that we saved.
-    gpList = item.value || 0;
+    gpList = item.value?.[time] || 0;
     $("#list").html('喝水：'+gpList+'次')
+    let html = ''
+    Object.keys(item.value).forEach((key) => {
+      html +=`<div>${key}: ${item.value[key]}次</div>`
+    })
+    $('#history').html(html)
   });
   let strWindowFeatures = `
   left=1000,
@@ -20,9 +27,9 @@ $(function () {
   $("#add").click(() => {
     chrome.storage.sync.get("value", function (item) {
       // Notify that we saved.
-      var num = (item.value || 0) + 1;
+      var num = (item.value?.[time] || 0) + 1;
       $("#list").html('喝水：'+num+'次')
-      chrome.storage.sync.set({ value: num }, function () {
+      chrome.storage.sync.set({ value: {...item.value,[time]:num} }, function () {
         // Notify that we saved.
       });
     });
@@ -30,9 +37,9 @@ $(function () {
    $("#reduce").click(() => {
     chrome.storage.sync.get("value", function (item) {
       // Notify that we saved.
-      var num = (item.value || 0)-1;
+      var num = (item.value?.[time] || 0)-1;
       $("#list").html('喝水：'+num+'次')
-      chrome.storage.sync.set({ value: num }, function () {
+      chrome.storage.sync.set({ value: {...item.value,[time]:num} }, function () {
         // Notify that we saved.
       });
     });
