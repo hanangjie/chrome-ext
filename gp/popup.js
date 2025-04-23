@@ -10,7 +10,7 @@ function createEventSource() {
     }
   });
   eventSource = new EventSource(
-    "https://1.push2.eastmoney.com/api/qt/ulist/sse?invt=3&pi=0&pz=9&mpi=2000&secids=" +
+    "https://1.push2.eastmoney.com/api/qt/ulist/sse?invt=3&pi=0&pz=100&mpi=2000&secids=" +
       sseId.join(",") +
       "&ut=6d2ffaa6a585d612eda28417681d58fb&fields=f12,f13,f19,f14,f139,f148,f2,f4,f1,f125,f18,f3,f152,f5,f30,f31,f32,f6,f8,f7,f10,f22,f9,f112,f100,f62&po=1"
   );

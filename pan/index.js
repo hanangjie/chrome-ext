@@ -5,9 +5,9 @@ var https = require("https");
 function dirPath(pa) {
   return p.join(__dirname, pa)
 }
-let startIndex = 2000;
+let startIndex = 0; // 根据file里的doIndex页的第几个
 let resultIndex = 2;
-let doIndex = 59
+let doIndex = 199 // 根据file里的内容的尾数 定义开始的索引
 
 function doPa(fileIndex) {
   const file = "ca";
@@ -35,13 +35,14 @@ function doPa(fileIndex) {
 
     var html = "";
     const req = https.request(options, (res) => {
-      console.log("statusCode:" + index, res.statusCode);
+      console.log("statusCode:" + index, res.statusCode, fileIndex, "https://pan.baidu.com" + options.path);
       if (res.statusCode === 200) {
         res.on("data", (d) => {
           html += d;
         });
         res.on("end", () => {
           if (!html.includes("百度网盘-链接不存在")) {
+            const title = getTitle(html)
             result.push({
               url: "https://pan.baidu.com" + url + fullPath,
               title: getTitle(html),
@@ -56,6 +57,7 @@ function doPa(fileIndex) {
     });
 
     req.on("error", (e) => {
+      continueQuery(index);
       console.error(e);
     });
 
@@ -97,5 +99,17 @@ function doPa(fileIndex) {
     const type = html.match('window.SHAREPAGETYPE=\'([a-z_]+)\'')
     return type ? type[1] : '';
   }
+  process.on('SIGINT', () => {
+    console.log('\n捕获中断信号，保存当前进度...');
+    if (result.length > 0) {
+      fs.writeFileSync(
+        dirPath(`./file/${+new Date()}_INTERRUPTED.json`),
+        JSON.stringify(result, "", "\t")
+      );
+      console.log(`已保存中断数据到 ${+new Date()}_INTERRUPTED.json`);
+    }
+    process.exit(0);
+  });
+
 }
 doPa(doIndex);
