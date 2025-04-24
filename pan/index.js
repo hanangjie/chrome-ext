@@ -2,14 +2,14 @@ const url = "/s/";
 var fs = require("fs");
 const p = require('path')
 var https = require("https");
-
-var config = require("./config.json"); // 引入confi
+const index = process.argv.slice(2)[0] ? process.argv.slice(2)[0].replace('--worker=', '') : 0
+var config = require("./config.js"); // 引入confi
 function dirPath(pa) {
   return p.join(__dirname, pa)
 }
 let startIndex = config.itemIndex; // 根据file里的doIndex页的第几个
 let resultIndex = config.saeIndex;
-let doIndex = config.fileIndex // 根据file里的内容的尾数 定义开始的索引
+let doIndex = 0 + +index * 100 // 根据file里的内容的尾数 定义开始的索引
 
 function doPa(fileIndex) {
   const file = config.head;

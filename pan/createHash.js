@@ -1,6 +1,6 @@
 var key = [];
 var line = new Array(26);
-var config = require("./config.json"); // 引入confi
+var config = require("./config.js"); // 引入confi
 var fs = require("fs");
 var head = config.head;
 let index = 0;

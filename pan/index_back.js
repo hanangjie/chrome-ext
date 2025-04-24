@@ -3,14 +3,13 @@ var fs = require("fs");
 const p = require('path')
 var https = require("https");
 
-var config = require("./config.json"); // 引入confi
+var config = require("./config.js"); // 引入confi
 function dirPath(pa) {
   return p.join(__dirname, pa)
 }
 let startIndex = 0; // 根据file里的doIndex页的第几个
 let resultIndex = 0;
-let doIndex = 3692 // 根据file里的内容的尾数 定义开始的索引
-
+let doIndex = 3192 // 根据file里的内容的尾数 定义开始的索引
 function doPa(fileIndex) {
   const file = config.head;
   const resourcePath = file + fileIndex;
