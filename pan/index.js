@@ -2,14 +2,14 @@ const url = "/s/";
 var fs = require("fs");
 const p = require('path')
 var https = require("https");
-const index = process.argv.slice(2)[0] ? process.argv.slice(2)[0].replace('--worker=', '') : 0
+const index = process.argv.slice(2)[0] ? process.argv.slice(2)[0].replace('--worker=', '') : 1
 var config = require("./config.js"); // 引入confi
 function dirPath(pa) {
   return p.join(__dirname, pa)
 }
 let startIndex = config.itemIndex; // 根据file里的doIndex页的第几个
 let resultIndex = config.saeIndex;
-let doIndex = 0 + +index * 100 // 根据file里的内容的尾数 定义开始的索引
+let doIndex = 0 + ((+index - 1) * 100)  // 根据file里的内容的尾数 定义开始的索引
 
 function doPa(fileIndex) {
   const file = config.head;
@@ -27,9 +27,11 @@ function doPa(fileIndex) {
       path: url + fullPath,
       method: "GET",
       headers: {
+        "X-Device-Info": config.deviceInfo,
         Accept:
           "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         Host: "yun.baidu.com",
+        "Referer": "https://pan.baidu.com/disk/main",
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
       },
@@ -37,13 +39,14 @@ function doPa(fileIndex) {
 
     var html = "";
     const req = https.request(options, (res) => {
-      console.log("statusCode:" + index, res.statusCode, fileIndex, "https://pan.baidu.com" + options.path);
+      console.log("c:" + index, res.statusCode, fileIndex, options.path);
       if (res.statusCode === 200) {
         res.on("data", (d) => {
           html += d;
         });
         res.on("end", () => {
           if (!html.includes("百度网盘-链接不存在")) {
+            console.log('y')
             const title = getTitle(html)
             result.push({
               url: "https://pan.baidu.com" + url + fullPath,
