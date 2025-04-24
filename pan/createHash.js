@@ -32,7 +32,7 @@ for (var q = 0; q < key.length; q++) {
         queryList.push(c);
         if (queryList.length > 4000) {
           fs.writeFileSync(
-            "./list/" + head + index + ".json",
+            "./list/" + head + "/" + head + index + ".json",
             JSON.stringify(queryList)
           );
           queryList = [];
