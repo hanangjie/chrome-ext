@@ -1,7 +1,8 @@
 var key = [];
 var line = new Array(26);
+var config = require("./config.json"); // 引入confi
 var fs = require("fs");
-var head = "ca";
+var head = config.head;
 let index = 0;
 
 var queryList = [];
