@@ -113,7 +113,7 @@ function doPa(fileIndex) {
         dirPath(`./file/${+new Date()}_INTERRUPTED.json`),
         JSON.stringify(result, "", "\t")
       );
-      console.log(`已保存中断数据到 ${+new Date()}_INTERRUPTED.json`);
+      console.log(`已保存中断数据到 ${+new Date()}_INTERRUPTED_fileIndex.json`);
     }
     process.exit(0);
   });
