@@ -1,7 +1,7 @@
 {
   "name": "pan",
   "version": "1.0.0",
-  "description": "",
+  "description": "- 第一步 创建六位hash码\r     node createHash.js\r  - 第二部 执行 node index.js过滤有用的url 和有效的url 存到file文件夹 每获取到100个url 就会生成一个文件\r  - 第三步 执行 node down.js 下载图片及资源 以便查阅",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "https-proxy-agent": "^7.0.6",
     "open": "^8.4.2",
     "puppeteer": "^20.7.1"
   }

@@ -1,6 +1,7 @@
 const url = "/s/";
 var fs = require("fs");
 const p = require('path')
+const { HttpsProxyAgent } = require('https-proxy-agent');
 var https = require("https");
 const index = process.argv.slice(2)[0] ? process.argv.slice(2)[0].replace('--worker=', '') : 1
 var config = require("./config.js"); // 引入confi
@@ -8,8 +9,8 @@ function dirPath(pa) {
   return p.join(__dirname, pa)
 }
 let startIndex = config.itemIndex; // 根据file里的doIndex页的第几个
-let resultIndex = config.saeIndex;
-let doIndex = 0 + ((+index - 1) * 100)  // 根据file里的内容的尾数 定义开始的索引
+let resultIndex = config.saveIndex;
+let doIndex = config.fileIndex + ((+index - 1) * 100)  // 根据f ile里的内容的尾数 定义开始的索引
 
 function doPa(fileIndex) {
   const file = config.head;
@@ -21,20 +22,21 @@ function doPa(fileIndex) {
   function query(index) {
     const path = queryList[index];
     const fullPath = "1" + path;
+    const randomUA = config.userAgents[Math.floor(Math.random() * config.userAgents.length)];
+
+    // 修改请求配置
     const options = {
       hostname: "pan.baidu.com",
       port: 443,
       path: url + fullPath,
       method: "GET",
+      agent: new HttpsProxyAgent('http://127.0.0.1:7890'),
       headers: {
-        "X-Device-Info": config.deviceInfo,
-        Accept:
-          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        Host: "yun.baidu.com",
-        "Referer": "https://pan.baidu.com/disk/main",
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-      },
+        "X-Forwarded-For": Array.from({ length: 4 }, () => Math.floor(Math.random() * 256)).join('.'),
+        "X-Real-IP": Array.from({ length: 4 }, () => Math.floor(Math.random() * 256)).join('.'),
+        "User-Agent": randomUA,
+        // ...保留原有headers...
+      }
     };
 
     var html = "";
