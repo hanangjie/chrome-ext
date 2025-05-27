@@ -49,6 +49,7 @@ function createEventSource() {
         }" title="
         最高:${(item.f15 / 100).toFixed(2)}
         最低:${(item.f16 / 100).toFixed(2)}
+        成交额:${(item.f6 / 100).toFixed(2)}
         昨收：${(item.f18 / 100).toFixed(2)}
         量比：${(item.f10 / 100).toFixed(2)}
         总市:${(item.f20 / 10000 / 10000).toFixed(2)}亿
