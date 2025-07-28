@@ -36,7 +36,7 @@ function createEventSource() {
       } else if (v2.f12 === "000001") {
         return 1;
       } else {
-        return v2.f2 / v2.f18 - 1 - (v1.f2 / v1.f18 - 1);
+        return v2.f10 - v1.f10;
       }
     });
     console.log(dataList);
@@ -45,8 +45,15 @@ function createEventSource() {
       const valChange = item.f4 / 100;
       total = total + +(gpList[item.f12].gu || 0) * valChange;
       const textCode = `${item.f13 === 0 ? "sz" : "sh"}${item.f12}`;
+      const htm = `<a style="float:right;margin-left:5px" href="https://quote.eastmoney.com/f1.html?newcode=${item.f13
+        }.${item.f12}"  target="_blank">分时 </a>
+      <a style="float:right;margin-left:5px" href="https://data.eastmoney.com/zjlx/${item.f12
+        }.html#chart-k-cyq"  target="_blank">资金 </a>
+      <a style="float:right;margin-left:5px" href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&code=${item.f13 === 0 ? "SZ" : "SH"
+        }${item.f12}&color=b#/gdyj"  target="_blank">股东</a>`;
       html += `<li style="color:${zf > 0 ? "red" : "green"
         }" title="
+        ${item.f14}
         最高:${(item.f15 / 100).toFixed(2)}
         最低:${(item.f16 / 100).toFixed(2)}
         成交额:${(item.f6 / 10000 / 10000).toFixed(2)}亿
@@ -54,18 +61,14 @@ function createEventSource() {
         量比：${(item.f10 / 100).toFixed(2)}
         总市:${(item.f20 / 10000 / 10000).toFixed(2)}亿
         流市:${(item.f21 / 10000 / 10000).toFixed(2)}亿
+        振幅:${(item.f7 / 100).toFixed(2)}%
         "><a style="text-decoration: none;color:${zf > 0 ? "red" : "green"
         }" href="https://quote.eastmoney.com/${textCode}.html#fullScreenChart" target="_blank">${item.f12
-        } ${item.f14} ${(item.f2 / 100).toFixed(2)} ${zf.toFixed(2)}%</a>
+        } ${item.f14.slice(0, 1)} ${(item.f2 / 100).toFixed(2)} ${zf.toFixed(2)}% </a>
       <span style="float:right;margin-left:5px" data-id="${item.f12
         }" >删除 </span>
-      <a style="float:right;margin-left:5px" href="https://quote.eastmoney.com/f1.html?newcode=${item.f13
-        }.${item.f12}"  target="_blank">分时 </a>
-      <a style="float:right;margin-left:5px" href="https://data.eastmoney.com/zjlx/${item.f12
-        }.html#chart-k-cyq"  target="_blank">资金 </a>
-      <a style="float:right;margin-left:5px" href="https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&code=${item.f13 === 0 ? "SZ" : "SH"
-        }${item.f12}&color=b#/gdyj"  target="_blank">股东</a>
-      &nbsp;换 ${(item.f8 / 100).toFixed(2)}%</li>`;
+      
+      &nbsp;换 ${(item.f8 / 100).toFixed(2)}% 量${(item.f10 / 100).toFixed(2)}</li>`;
     });
     // $("#list").html(html + `<li>盈亏：${total}</li>`);
     $("#list").html(html);
