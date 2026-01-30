@@ -2,8 +2,9 @@ var gpList = {};
 let initList = null;
 
 function createEventSource() {
+  gpList[`000001`] = { gu: 0, iszhishu: true };
   const sseId = Object.keys(gpList).map((item) => {
-    if (item.slice(0, 1) === "6") {
+    if (item.slice(0, 1) === "6" || "000001" === item) {
       return "1." + item;
     } else {
       return "0." + item;
@@ -44,7 +45,7 @@ function createEventSource() {
       const zf = (item.f2 / item.f18 - 1) * 100;
       const valChange = item.f4 / 100;
       total = total + +(gpList[item.f12].gu || 0) * valChange;
-      const textCode = `${item.f13 === 0 ? "sz" : "sh"}${item.f12}`;
+      const textCode = `${item.f13 === 0 && !item.iszhishu ? "sz" : "sh"}${item.f12}`;
       const htm =
         `<a style="float:right;margin-left:5px" href="https://quote.eastmoney.com/f1.html?newcode=${
           item.f13
