@@ -32,10 +32,8 @@ function createEventSource() {
     }
     const dataList = Object.values(initList);
     dataList.sort((v1, v2) => {
-      if (v1.f12 === "000001") {
+      if (["上证指数", "深证成指"].includes(v1.f14)) {
         return -1;
-      } else if (v2.f12 === "000001") {
-        return 1;
       } else {
         return v2.f62 - v1.f62;
       }
@@ -84,6 +82,7 @@ function createEventSource() {
       )}&nbsp;<span style="color:${item.f62 < 0 ? "green" : "red"}">主${(item.f62 / 10000).toFixed(2)}</span></li>`;
     });
     // $("#list").html(html + `<li>盈亏：${total}</li>`);
+    $("#num").html(Object.keys(gpList).length);
     $("#list").html(html);
   });
 }
