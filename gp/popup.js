@@ -34,6 +34,8 @@ function createEventSource() {
     dataList.sort((v1, v2) => {
       if (["上证指数", "深证成指"].includes(v1.f14)) {
         return -1;
+      } else if (["上证指数", "深证成指"].includes(v2.f14)) {
+        return 1;
       } else {
         return v2.f62 - v1.f62;
       }
